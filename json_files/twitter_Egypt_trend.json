@@ -1,0 +1,364 @@
+[
+ {
+  "trends": [
+   {
+    "name": "#سوبر_اليد_يااهلي",
+    "url": "http://twitter.com/search?q=%23%D8%B3%D9%88%D8%A8%D8%B1_%D8%A7%D9%84%D9%8A%D8%AF_%D9%8A%D8%A7%D8%A7%D9%87%D9%84%D9%8A",
+    "promoted_content": null,
+    "query": "%23%D8%B3%D9%88%D8%A8%D8%B1_%D8%A7%D9%84%D9%8A%D8%AF_%D9%8A%D8%A7%D8%A7%D9%87%D9%84%D9%8A",
+    "tweet_volume": 64943
+   },
+   {
+    "name": "#كوماندوز_الزمالك_قدها",
+    "url": "http://twitter.com/search?q=%23%D9%83%D9%88%D9%85%D8%A7%D9%86%D8%AF%D9%88%D8%B2_%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%84%D9%83_%D9%82%D8%AF%D9%87%D8%A7",
+    "promoted_content": null,
+    "query": "%23%D9%83%D9%88%D9%85%D8%A7%D9%86%D8%AF%D9%88%D8%B2_%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%84%D9%83_%D9%82%D8%AF%D9%87%D8%A7",
+    "tweet_volume": 52340
+   },
+   {
+    "name": "#سيد_عبد_الحفيظ",
+    "url": "http://twitter.com/search?q=%23%D8%B3%D9%8A%D8%AF_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%AD%D9%81%D9%8A%D8%B8",
+    "promoted_content": null,
+    "query": "%23%D8%B3%D9%8A%D8%AF_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%AD%D9%81%D9%8A%D8%B8",
+    "tweet_volume": 27169
+   },
+   {
+    "name": "#الكيان_المخروم",
+    "url": "http://twitter.com/search?q=%23%D8%A7%D9%84%D9%83%D9%8A%D8%A7%D9%86_%D8%A7%D9%84%D9%85%D8%AE%D8%B1%D9%88%D9%85",
+    "promoted_content": null,
+    "query": "%23%D8%A7%D9%84%D9%83%D9%8A%D8%A7%D9%86_%D8%A7%D9%84%D9%85%D8%AE%D8%B1%D9%88%D9%85",
+    "tweet_volume": null
+   },
+   {
+    "name": "#شل_اس",
+    "url": "http://twitter.com/search?q=%23%D8%B4%D9%84_%D8%A7%D8%B3",
+    "promoted_content": null,
+    "query": "%23%D8%B4%D9%84_%D8%A7%D8%B3",
+    "tweet_volume": null
+   },
+   {
+    "name": "مروان محسن",
+    "url": "http://twitter.com/search?q=%22%D9%85%D8%B1%D9%88%D8%A7%D9%86+%D9%85%D8%AD%D8%B3%D9%86%22",
+    "promoted_content": null,
+    "query": "%22%D9%85%D8%B1%D9%88%D8%A7%D9%86+%D9%85%D8%AD%D8%B3%D9%86%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Baekhyun",
+    "url": "http://twitter.com/search?q=Baekhyun",
+    "promoted_content": null,
+    "query": "Baekhyun",
+    "tweet_volume": 118426
+   },
+   {
+    "name": "هزار السوبر",
+    "url": "http://twitter.com/search?q=%22%D9%87%D8%B2%D8%A7%D8%B1+%D8%A7%D9%84%D8%B3%D9%88%D8%A8%D8%B1%22",
+    "promoted_content": null,
+    "query": "%22%D9%87%D8%B2%D8%A7%D8%B1+%D8%A7%D9%84%D8%B3%D9%88%D8%A8%D8%B1%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "كارلوس",
+    "url": "http://twitter.com/search?q=%D9%83%D8%A7%D8%B1%D9%84%D9%88%D8%B3",
+    "promoted_content": null,
+    "query": "%D9%83%D8%A7%D8%B1%D9%84%D9%88%D8%B3",
+    "tweet_volume": null
+   },
+   {
+    "name": "وائل جمعه",
+    "url": "http://twitter.com/search?q=%22%D9%88%D8%A7%D8%A6%D9%84+%D8%AC%D9%85%D8%B9%D9%87%22",
+    "promoted_content": null,
+    "query": "%22%D9%88%D8%A7%D8%A6%D9%84+%D8%AC%D9%85%D8%B9%D9%87%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "كابتن سيد",
+    "url": "http://twitter.com/search?q=%22%D9%83%D8%A7%D8%A8%D8%AA%D9%86+%D8%B3%D9%8A%D8%AF%22",
+    "promoted_content": null,
+    "query": "%22%D9%83%D8%A7%D8%A8%D8%AA%D9%86+%D8%B3%D9%8A%D8%AF%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "الامور المتروكه",
+    "url": "http://twitter.com/search?q=%22%D8%A7%D9%84%D8%A7%D9%85%D9%88%D8%B1+%D8%A7%D9%84%D9%85%D8%AA%D8%B1%D9%88%D9%83%D9%87%22",
+    "promoted_content": null,
+    "query": "%22%D8%A7%D9%84%D8%A7%D9%85%D9%88%D8%B1+%D8%A7%D9%84%D9%85%D8%AA%D8%B1%D9%88%D9%83%D9%87%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "السوبر الافريقي",
+    "url": "http://twitter.com/search?q=%22%D8%A7%D9%84%D8%B3%D9%88%D8%A8%D8%B1+%D8%A7%D9%84%D8%A7%D9%81%D8%B1%D9%8A%D9%82%D9%8A%22",
+    "promoted_content": null,
+    "query": "%22%D8%A7%D9%84%D8%B3%D9%88%D8%A8%D8%B1+%D8%A7%D9%84%D8%A7%D9%81%D8%B1%D9%8A%D9%82%D9%8A%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "احمد حسن",
+    "url": "http://twitter.com/search?q=%22%D8%A7%D8%AD%D9%85%D8%AF+%D8%AD%D8%B3%D9%86%22",
+    "promoted_content": null,
+    "query": "%22%D8%A7%D8%AD%D9%85%D8%AF+%D8%AD%D8%B3%D9%86%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "علي صدي البلد",
+    "url": "http://twitter.com/search?q=%22%D8%B9%D9%84%D9%8A+%D8%B5%D8%AF%D9%8A+%D8%A7%D9%84%D8%A8%D9%84%D8%AF%22",
+    "promoted_content": null,
+    "query": "%22%D8%B9%D9%84%D9%8A+%D8%B5%D8%AF%D9%8A+%D8%A7%D9%84%D8%A8%D9%84%D8%AF%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "ملوك الصالات",
+    "url": "http://twitter.com/search?q=%22%D9%85%D9%84%D9%88%D9%83+%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%A7%D8%AA%22",
+    "promoted_content": null,
+    "query": "%22%D9%85%D9%84%D9%88%D9%83+%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%A7%D8%AA%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "النهارده الخميس",
+    "url": "http://twitter.com/search?q=%22%D8%A7%D9%84%D9%86%D9%87%D8%A7%D8%B1%D8%AF%D9%87+%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3%22",
+    "promoted_content": null,
+    "query": "%22%D8%A7%D9%84%D9%86%D9%87%D8%A7%D8%B1%D8%AF%D9%87+%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "حسام حسن",
+    "url": "http://twitter.com/search?q=%22%D8%AD%D8%B3%D8%A7%D9%85+%D8%AD%D8%B3%D9%86%22",
+    "promoted_content": null,
+    "query": "%22%D8%AD%D8%B3%D8%A7%D9%85+%D8%AD%D8%B3%D9%86%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "ابو السيد",
+    "url": "http://twitter.com/search?q=%22%D8%A7%D8%A8%D9%88+%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%22",
+    "promoted_content": null,
+    "query": "%22%D8%A7%D8%A8%D9%88+%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "DROP AN EMOJI",
+    "url": "http://twitter.com/search?q=%22DROP+AN+EMOJI%22",
+    "promoted_content": null,
+    "query": "%22DROP+AN+EMOJI%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "مدير كره",
+    "url": "http://twitter.com/search?q=%22%D9%85%D8%AF%D9%8A%D8%B1+%D9%83%D8%B1%D9%87%22",
+    "promoted_content": null,
+    "query": "%22%D9%85%D8%AF%D9%8A%D8%B1+%D9%83%D8%B1%D9%87%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "اليوم الخميس",
+    "url": "http://twitter.com/search?q=%22%D8%A7%D9%84%D9%8A%D9%88%D9%85+%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3%22",
+    "promoted_content": null,
+    "query": "%22%D8%A7%D9%84%D9%8A%D9%88%D9%85+%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3%22",
+    "tweet_volume": 18149
+   },
+   {
+    "name": "التقدير الانسحاب",
+    "url": "http://twitter.com/search?q=%22%D8%A7%D9%84%D8%AA%D9%82%D8%AF%D9%8A%D8%B1+%D8%A7%D9%84%D8%A7%D9%86%D8%B3%D8%AD%D8%A7%D8%A8%22",
+    "promoted_content": null,
+    "query": "%22%D8%A7%D9%84%D8%AA%D9%82%D8%AF%D9%8A%D8%B1+%D8%A7%D9%84%D8%A7%D9%86%D8%B3%D8%AD%D8%A7%D8%A8%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "احمد موسي",
+    "url": "http://twitter.com/search?q=%22%D8%A7%D8%AD%D9%85%D8%AF+%D9%85%D9%88%D8%B3%D9%8A%22",
+    "promoted_content": null,
+    "query": "%22%D8%A7%D8%AD%D9%85%D8%AF+%D9%85%D9%88%D8%B3%D9%8A%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "كاس العالم",
+    "url": "http://twitter.com/search?q=%22%D9%83%D8%A7%D8%B3+%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%22",
+    "promoted_content": null,
+    "query": "%22%D9%83%D8%A7%D8%B3+%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%22",
+    "tweet_volume": 19549
+   },
+   {
+    "name": "بن غيث",
+    "url": "http://twitter.com/search?q=%22%D8%A8%D9%86+%D8%BA%D9%8A%D8%AB%22",
+    "promoted_content": null,
+    "query": "%22%D8%A8%D9%86+%D8%BA%D9%8A%D8%AB%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "I'LL SEND YOU THE QUESTIONS",
+    "url": "http://twitter.com/search?q=%22I%27LL+SEND+YOU+THE+QUESTIONS%22",
+    "promoted_content": null,
+    "query": "%22I%27LL+SEND+YOU+THE+QUESTIONS%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "tell us about yourself",
+    "url": "http://twitter.com/search?q=%22tell+us+about+yourself%22",
+    "promoted_content": null,
+    "query": "%22tell+us+about+yourself%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "حزب العداله",
+    "url": "http://twitter.com/search?q=%22%D8%AD%D8%B2%D8%A8+%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D9%87%22",
+    "promoted_content": null,
+    "query": "%22%D8%AD%D8%B2%D8%A8+%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D9%87%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "DRUMMER JUNGKOOK",
+    "url": "http://twitter.com/search?q=%22DRUMMER+JUNGKOOK%22",
+    "promoted_content": null,
+    "query": "%22DRUMMER+JUNGKOOK%22",
+    "tweet_volume": 62652
+   },
+   {
+    "name": "9 سبتمبر 2021",
+    "url": "http://twitter.com/search?q=%229+%D8%B3%D8%A8%D8%AA%D9%85%D8%A8%D8%B1+2021%22",
+    "promoted_content": null,
+    "query": "%229+%D8%B3%D8%A8%D8%AA%D9%85%D8%A8%D8%B1+2021%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "ابراهيم عيسي",
+    "url": "http://twitter.com/search?q=%22%D8%A7%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85+%D8%B9%D9%8A%D8%B3%D9%8A%22",
+    "promoted_content": null,
+    "query": "%22%D8%A7%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85+%D8%B9%D9%8A%D8%B3%D9%8A%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "hoseok",
+    "url": "http://twitter.com/search?q=hoseok",
+    "promoted_content": null,
+    "query": "hoseok",
+    "tweet_volume": 265862
+   },
+   {
+    "name": "الاخبار الصحيحه",
+    "url": "http://twitter.com/search?q=%22%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1+%D8%A7%D9%84%D8%B5%D8%AD%D9%8A%D8%AD%D9%87%22",
+    "promoted_content": null,
+    "query": "%22%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1+%D8%A7%D9%84%D8%B5%D8%AD%D9%8A%D8%AD%D9%87%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "قلب الاسد",
+    "url": "http://twitter.com/search?q=%22%D9%82%D9%84%D8%A8+%D8%A7%D9%84%D8%A7%D8%B3%D8%AF%22",
+    "promoted_content": null,
+    "query": "%22%D9%82%D9%84%D8%A8+%D8%A7%D9%84%D8%A7%D8%B3%D8%AF%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "welcome to egypt",
+    "url": "http://twitter.com/search?q=%22welcome+to+egypt%22",
+    "promoted_content": null,
+    "query": "%22welcome+to+egypt%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Kylie",
+    "url": "http://twitter.com/search?q=Kylie",
+    "promoted_content": null,
+    "query": "Kylie",
+    "tweet_volume": 78238
+   },
+   {
+    "name": "Director",
+    "url": "http://twitter.com/search?q=Director",
+    "promoted_content": null,
+    "query": "Director",
+    "tweet_volume": 153911
+   },
+   {
+    "name": "وزير الخارجيه",
+    "url": "http://twitter.com/search?q=%22%D9%88%D8%B2%D9%8A%D8%B1+%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D9%87%22",
+    "promoted_content": null,
+    "query": "%22%D9%88%D8%B2%D9%8A%D8%B1+%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D9%87%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "ابو معتز",
+    "url": "http://twitter.com/search?q=%22%D8%A7%D8%A8%D9%88+%D9%85%D8%B9%D8%AA%D8%B2%22",
+    "promoted_content": null,
+    "query": "%22%D8%A7%D8%A8%D9%88+%D9%85%D8%B9%D8%AA%D8%B2%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "حزب العدالة والتنمية",
+    "url": "http://twitter.com/search?q=%22%D8%AD%D8%B2%D8%A8+%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9+%D9%88%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9%22",
+    "promoted_content": null,
+    "query": "%22%D8%AD%D8%B2%D8%A8+%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9+%D9%88%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "كريس",
+    "url": "http://twitter.com/search?q=%D9%83%D8%B1%D9%8A%D8%B3",
+    "promoted_content": null,
+    "query": "%D9%83%D8%B1%D9%8A%D8%B3",
+    "tweet_volume": null
+   },
+   {
+    "name": "سيد الحراق",
+    "url": "http://twitter.com/search?q=%22%D8%B3%D9%8A%D8%AF+%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D9%82%22",
+    "promoted_content": null,
+    "query": "%22%D8%B3%D9%8A%D8%AF+%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D9%82%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "هاري كين",
+    "url": "http://twitter.com/search?q=%22%D9%87%D8%A7%D8%B1%D9%8A+%D9%83%D9%8A%D9%86%22",
+    "promoted_content": null,
+    "query": "%22%D9%87%D8%A7%D8%B1%D9%8A+%D9%83%D9%8A%D9%86%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "منير",
+    "url": "http://twitter.com/search?q=%D9%85%D9%86%D9%8A%D8%B1",
+    "promoted_content": null,
+    "query": "%D9%85%D9%86%D9%8A%D8%B1",
+    "tweet_volume": null
+   },
+   {
+    "name": "المعافره الغلط",
+    "url": "http://twitter.com/search?q=%22%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%81%D8%B1%D9%87+%D8%A7%D9%84%D8%BA%D9%84%D8%B7%22",
+    "promoted_content": null,
+    "query": "%22%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%81%D8%B1%D9%87+%D8%A7%D9%84%D8%BA%D9%84%D8%B7%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "البرتغال",
+    "url": "http://twitter.com/search?q=%D8%A7%D9%84%D8%A8%D8%B1%D8%AA%D8%BA%D8%A7%D9%84",
+    "promoted_content": null,
+    "query": "%D8%A7%D9%84%D8%A8%D8%B1%D8%AA%D8%BA%D8%A7%D9%84",
+    "tweet_volume": null
+   },
+   {
+    "name": "ضياء السيد",
+    "url": "http://twitter.com/search?q=%22%D8%B6%D9%8A%D8%A7%D8%A1+%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%22",
+    "promoted_content": null,
+    "query": "%22%D8%B6%D9%8A%D8%A7%D8%A1+%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "مدير الكره",
+    "url": "http://twitter.com/search?q=%22%D9%85%D8%AF%D9%8A%D8%B1+%D8%A7%D9%84%D9%83%D8%B1%D9%87%22",
+    "promoted_content": null,
+    "query": "%22%D9%85%D8%AF%D9%8A%D8%B1+%D8%A7%D9%84%D9%83%D8%B1%D9%87%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "توريس",
+    "url": "http://twitter.com/search?q=%D8%AA%D9%88%D8%B1%D9%8A%D8%B3",
+    "promoted_content": null,
+    "query": "%D8%AA%D9%88%D8%B1%D9%8A%D8%B3",
+    "tweet_volume": null
+   }
+  ],
+  "as_of": "2021-09-09T20:07:57Z",
+  "created_at": "2021-08-16T20:55:08Z",
+  "locations": [
+   {
+    "name": "Egypt",
+    "woeid": 23424802
+   }
+  ]
+ }
+]

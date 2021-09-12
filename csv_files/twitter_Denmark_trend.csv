@@ -1,0 +1,17 @@
+name,url,query,tweet_volume,country
+Michael,http://twitter.com/search?q=Michael,Michael,155507.0,Denmark
+Daniel,http://twitter.com/search?q=Daniel,Daniel,143560.0,Denmark
+Matrix,http://twitter.com/search?q=Matrix,Matrix,273206.0,Denmark
+Italy,http://twitter.com/search?q=Italy,Italy,64862.0,Denmark
+Poland,http://twitter.com/search?q=Poland,Poland,26121.0,Denmark
+FIFA,http://twitter.com/search?q=FIFA,FIFA,58436.0,Denmark
+Spain,http://twitter.com/search?q=Spain,Spain,42584.0,Denmark
+Ronaldo,http://twitter.com/search?q=Ronaldo,Ronaldo,159394.0,Denmark
+tv 2,http://twitter.com/search?q=%22tv+2%22,%22tv+2%22,80290.0,Denmark
+Kina,http://twitter.com/search?q=Kina,Kina,10367.0,Denmark
+Solana,http://twitter.com/search?q=Solana,Solana,208377.0,Denmark
+Discovery,http://twitter.com/search?q=Discovery,Discovery,26159.0,Denmark
+Premier League,http://twitter.com/search?q=%22Premier+League%22,%22Premier+League%22,33245.0,Denmark
+Iran,http://twitter.com/search?q=Iran,Iran,63550.0,Denmark
+Champions League,http://twitter.com/search?q=%22Champions+League%22,%22Champions+League%22,29597.0,Denmark
+Hong Kong,http://twitter.com/search?q=%22Hong+Kong%22,%22Hong+Kong%22,31110.0,Denmark

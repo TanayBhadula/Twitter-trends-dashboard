@@ -1,0 +1,364 @@
+[
+ {
+  "trends": [
+   {
+    "name": "Matrix",
+    "url": "http://twitter.com/search?q=Matrix",
+    "promoted_content": null,
+    "query": "Matrix",
+    "tweet_volume": 272976
+   },
+   {
+    "name": "#FairCity",
+    "url": "http://twitter.com/search?q=%23FairCity",
+    "promoted_content": null,
+    "query": "%23FairCity",
+    "tweet_volume": null
+   },
+   {
+    "name": "#NTAs",
+    "url": "http://twitter.com/search?q=%23NTAs",
+    "promoted_content": null,
+    "query": "%23NTAs",
+    "tweet_volume": null
+   },
+   {
+    "name": "#POLENG",
+    "url": "http://twitter.com/search?q=%23POLENG",
+    "promoted_content": null,
+    "query": "%23POLENG",
+    "tweet_volume": null
+   },
+   {
+    "name": "Keira",
+    "url": "http://twitter.com/search?q=Keira",
+    "promoted_content": null,
+    "query": "Keira",
+    "tweet_volume": null
+   },
+   {
+    "name": "Fianna Fáil",
+    "url": "http://twitter.com/search?q=%22Fianna+F%C3%A1il%22",
+    "promoted_content": null,
+    "query": "%22Fianna+F%C3%A1il%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "#TheRotunda",
+    "url": "http://twitter.com/search?q=%23TheRotunda",
+    "promoted_content": null,
+    "query": "%23TheRotunda",
+    "tweet_volume": null
+   },
+   {
+    "name": "#Ibelieveher",
+    "url": "http://twitter.com/search?q=%23Ibelieveher",
+    "promoted_content": null,
+    "query": "%23Ibelieveher",
+    "tweet_volume": null
+   },
+   {
+    "name": "Paddy Jackson",
+    "url": "http://twitter.com/search?q=%22Paddy+Jackson%22",
+    "promoted_content": null,
+    "query": "%22Paddy+Jackson%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Stormont",
+    "url": "http://twitter.com/search?q=Stormont",
+    "promoted_content": null,
+    "query": "Stormont",
+    "tweet_volume": null
+   },
+   {
+    "name": "bazunu",
+    "url": "http://twitter.com/search?q=bazunu",
+    "promoted_content": null,
+    "query": "bazunu",
+    "tweet_volume": null
+   },
+   {
+    "name": "The DUP",
+    "url": "http://twitter.com/search?q=%22The+DUP%22",
+    "promoted_content": null,
+    "query": "%22The+DUP%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Amazon",
+    "url": "http://twitter.com/search?q=Amazon",
+    "promoted_content": null,
+    "query": "Amazon",
+    "tweet_volume": 685138
+   },
+   {
+    "name": "Noel",
+    "url": "http://twitter.com/search?q=Noel",
+    "promoted_content": null,
+    "query": "Noel",
+    "tweet_volume": 26981
+   },
+   {
+    "name": "Kenny",
+    "url": "http://twitter.com/search?q=Kenny",
+    "promoted_content": null,
+    "query": "Kenny",
+    "tweet_volume": 25366
+   },
+   {
+    "name": "New World Order",
+    "url": "http://twitter.com/search?q=%22New+World+Order%22",
+    "promoted_content": null,
+    "query": "%22New+World+Order%22",
+    "tweet_volume": 77158
+   },
+   {
+    "name": "Jeffrey",
+    "url": "http://twitter.com/search?q=Jeffrey",
+    "promoted_content": null,
+    "query": "Jeffrey",
+    "tweet_volume": 14996
+   },
+   {
+    "name": "Doncaster",
+    "url": "http://twitter.com/search?q=Doncaster",
+    "promoted_content": null,
+    "query": "Doncaster",
+    "tweet_volume": null
+   },
+   {
+    "name": "Southgate",
+    "url": "http://twitter.com/search?q=Southgate",
+    "promoted_content": null,
+    "query": "Southgate",
+    "tweet_volume": null
+   },
+   {
+    "name": "Keanu",
+    "url": "http://twitter.com/search?q=Keanu",
+    "promoted_content": null,
+    "query": "Keanu",
+    "tweet_volume": 41930
+   },
+   {
+    "name": "Colm Bonnar",
+    "url": "http://twitter.com/search?q=%22Colm+Bonnar%22",
+    "promoted_content": null,
+    "query": "%22Colm+Bonnar%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Life is Strange",
+    "url": "http://twitter.com/search?q=%22Life+is+Strange%22",
+    "promoted_content": null,
+    "query": "%22Life+is+Strange%22",
+    "tweet_volume": 14315
+   },
+   {
+    "name": "Serbia",
+    "url": "http://twitter.com/search?q=Serbia",
+    "promoted_content": null,
+    "query": "Serbia",
+    "tweet_volume": null
+   },
+   {
+    "name": "Shelagh",
+    "url": "http://twitter.com/search?q=Shelagh",
+    "promoted_content": null,
+    "query": "Shelagh",
+    "tweet_volume": null
+   },
+   {
+    "name": "Priti Patel",
+    "url": "http://twitter.com/search?q=%22Priti+Patel%22",
+    "promoted_content": null,
+    "query": "%22Priti+Patel%22",
+    "tweet_volume": 31684
+   },
+   {
+    "name": "stephen kelly",
+    "url": "http://twitter.com/search?q=%22stephen+kelly%22",
+    "promoted_content": null,
+    "query": "%22stephen+kelly%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Morpheus",
+    "url": "http://twitter.com/search?q=Morpheus",
+    "promoted_content": null,
+    "query": "Morpheus",
+    "tweet_volume": 15121
+   },
+   {
+    "name": "Brexit",
+    "url": "http://twitter.com/search?q=Brexit",
+    "promoted_content": null,
+    "query": "Brexit",
+    "tweet_volume": 99767
+   },
+   {
+    "name": "Kyle Walker",
+    "url": "http://twitter.com/search?q=%22Kyle+Walker%22",
+    "promoted_content": null,
+    "query": "%22Kyle+Walker%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Cavan",
+    "url": "http://twitter.com/search?q=Cavan",
+    "promoted_content": null,
+    "query": "Cavan",
+    "tweet_volume": null
+   },
+   {
+    "name": "John Wick",
+    "url": "http://twitter.com/search?q=%22John+Wick%22",
+    "promoted_content": null,
+    "query": "%22John+Wick%22",
+    "tweet_volume": 33846
+   },
+   {
+    "name": "Pickford",
+    "url": "http://twitter.com/search?q=Pickford",
+    "promoted_content": null,
+    "query": "Pickford",
+    "tweet_volume": null
+   },
+   {
+    "name": "Intel",
+    "url": "http://twitter.com/search?q=Intel",
+    "promoted_content": null,
+    "query": "Intel",
+    "tweet_volume": 25808
+   },
+   {
+    "name": "london irish",
+    "url": "http://twitter.com/search?q=%22london+irish%22",
+    "promoted_content": null,
+    "query": "%22london+irish%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Repeal",
+    "url": "http://twitter.com/search?q=Repeal",
+    "promoted_content": null,
+    "query": "Repeal",
+    "tweet_volume": null
+   },
+   {
+    "name": "Tanya",
+    "url": "http://twitter.com/search?q=Tanya",
+    "promoted_content": null,
+    "query": "Tanya",
+    "tweet_volume": 40605
+   },
+   {
+    "name": "Harry Kane",
+    "url": "http://twitter.com/search?q=%22Harry+Kane%22",
+    "promoted_content": null,
+    "query": "%22Harry+Kane%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Blues Clues",
+    "url": "http://twitter.com/search?q=%22Blues+Clues%22",
+    "promoted_content": null,
+    "query": "%22Blues+Clues%22",
+    "tweet_volume": 124103
+   },
+   {
+    "name": "Giggs",
+    "url": "http://twitter.com/search?q=Giggs",
+    "promoted_content": null,
+    "query": "Giggs",
+    "tweet_volume": null
+   },
+   {
+    "name": "Mary Lou",
+    "url": "http://twitter.com/search?q=%22Mary+Lou%22",
+    "promoted_content": null,
+    "query": "%22Mary+Lou%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Cowboys",
+    "url": "http://twitter.com/search?q=Cowboys",
+    "promoted_content": null,
+    "query": "Cowboys",
+    "tweet_volume": 47105
+   },
+   {
+    "name": "Olympia",
+    "url": "http://twitter.com/search?q=Olympia",
+    "promoted_content": null,
+    "query": "Olympia",
+    "tweet_volume": null
+   },
+   {
+    "name": "Christmas",
+    "url": "http://twitter.com/search?q=Christmas",
+    "promoted_content": null,
+    "query": "Christmas",
+    "tweet_volume": 67451
+   },
+   {
+    "name": "Snap",
+    "url": "http://twitter.com/search?q=Snap",
+    "promoted_content": null,
+    "query": "Snap",
+    "tweet_volume": 65826
+   },
+   {
+    "name": "Hospital",
+    "url": "http://twitter.com/search?q=Hospital",
+    "promoted_content": null,
+    "query": "Hospital",
+    "tweet_volume": 259913
+   },
+   {
+    "name": "Torres",
+    "url": "http://twitter.com/search?q=Torres",
+    "promoted_content": null,
+    "query": "Torres",
+    "tweet_volume": 42804
+   },
+   {
+    "name": "All Ireland Football Final",
+    "url": "http://twitter.com/search?q=%22All+Ireland+Football+Final%22",
+    "promoted_content": null,
+    "query": "%22All+Ireland+Football+Final%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Tánaiste",
+    "url": "http://twitter.com/search?q=T%C3%A1naiste",
+    "promoted_content": null,
+    "query": "T%C3%A1naiste",
+    "tweet_volume": null
+   },
+   {
+    "name": "Channel",
+    "url": "http://twitter.com/search?q=Channel",
+    "promoted_content": null,
+    "query": "Channel",
+    "tweet_volume": 464006
+   },
+   {
+    "name": "Draw",
+    "url": "http://twitter.com/search?q=Draw",
+    "promoted_content": null,
+    "query": "Draw",
+    "tweet_volume": 174627
+   }
+  ],
+  "as_of": "2021-09-09T20:07:13Z",
+  "created_at": "2021-09-03T01:44:43Z",
+  "locations": [
+   {
+    "name": "Ireland",
+    "woeid": 23424803
+   }
+  ]
+ }
+]

@@ -1,0 +1,364 @@
+[
+ {
+  "trends": [
+   {
+    "name": "#btsdiscography",
+    "url": "http://twitter.com/search?q=%23btsdiscography",
+    "promoted_content": null,
+    "query": "%23btsdiscography",
+    "tweet_volume": 32644
+   },
+   {
+    "name": "#btsdivine",
+    "url": "http://twitter.com/search?q=%23btsdivine",
+    "promoted_content": null,
+    "query": "%23btsdivine",
+    "tweet_volume": 32938
+   },
+   {
+    "name": "#btsdiamond",
+    "url": "http://twitter.com/search?q=%23btsdiamond",
+    "promoted_content": null,
+    "query": "%23btsdiamond",
+    "tweet_volume": 34673
+   },
+   {
+    "name": "#9MillonesDeGracias",
+    "url": "http://twitter.com/search?q=%239MillonesDeGracias",
+    "promoted_content": null,
+    "query": "%239MillonesDeGracias",
+    "tweet_volume": null
+   },
+   {
+    "name": "#3JIsBack",
+    "url": "http://twitter.com/search?q=%233JIsBack",
+    "promoted_content": null,
+    "query": "%233JIsBack",
+    "tweet_volume": 330783
+   },
+   {
+    "name": "Vogue",
+    "url": "http://twitter.com/search?q=Vogue",
+    "promoted_content": null,
+    "query": "Vogue",
+    "tweet_volume": 36167
+   },
+   {
+    "name": "Baekhyun",
+    "url": "http://twitter.com/search?q=Baekhyun",
+    "promoted_content": null,
+    "query": "Baekhyun",
+    "tweet_volume": 118300
+   },
+   {
+    "name": "Araujo",
+    "url": "http://twitter.com/search?q=Araujo",
+    "promoted_content": null,
+    "query": "Araujo",
+    "tweet_volume": 14282
+   },
+   {
+    "name": "Diego Godín",
+    "url": "http://twitter.com/search?q=%22Diego+God%C3%ADn%22",
+    "promoted_content": null,
+    "query": "%22Diego+God%C3%ADn%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Loor",
+    "url": "http://twitter.com/search?q=Loor",
+    "promoted_content": null,
+    "query": "Loor",
+    "tweet_volume": null
+   },
+   {
+    "name": "María Josefa Coronel",
+    "url": "http://twitter.com/search?q=%22Mar%C3%ADa+Josefa+Coronel%22",
+    "promoted_content": null,
+    "query": "%22Mar%C3%ADa+Josefa+Coronel%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "jacobo bucaram",
+    "url": "http://twitter.com/search?q=%22jacobo+bucaram%22",
+    "promoted_content": null,
+    "query": "%22jacobo+bucaram%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "consulta popular",
+    "url": "http://twitter.com/search?q=%22consulta+popular%22",
+    "promoted_content": null,
+    "query": "%22consulta+popular%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "goltv",
+    "url": "http://twitter.com/search?q=goltv",
+    "promoted_content": null,
+    "query": "goltv",
+    "tweet_volume": null
+   },
+   {
+    "name": "Cavani",
+    "url": "http://twitter.com/search?q=Cavani",
+    "promoted_content": null,
+    "query": "Cavani",
+    "tweet_volume": null
+   },
+   {
+    "name": "Pocho",
+    "url": "http://twitter.com/search?q=Pocho",
+    "promoted_content": null,
+    "query": "Pocho",
+    "tweet_volume": null
+   },
+   {
+    "name": "3J BEST SUB-UNIT",
+    "url": "http://twitter.com/search?q=%223J+BEST+SUB-UNIT%22",
+    "promoted_content": null,
+    "query": "%223J+BEST+SUB-UNIT%22",
+    "tweet_volume": 131168
+   },
+   {
+    "name": "Marías",
+    "url": "http://twitter.com/search?q=Mar%C3%ADas",
+    "promoted_content": null,
+    "query": "Mar%C3%ADas",
+    "tweet_volume": null
+   },
+   {
+    "name": "México",
+    "url": "http://twitter.com/search?q=M%C3%A9xico",
+    "promoted_content": null,
+    "query": "M%C3%A9xico",
+    "tweet_volume": 403168
+   },
+   {
+    "name": "roddy zambrano",
+    "url": "http://twitter.com/search?q=%22roddy+zambrano%22",
+    "promoted_content": null,
+    "query": "%22roddy+zambrano%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Campeón del Siglo",
+    "url": "http://twitter.com/search?q=%22Campe%C3%B3n+del+Siglo%22",
+    "promoted_content": null,
+    "query": "%22Campe%C3%B3n+del+Siglo%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Forbes",
+    "url": "http://twitter.com/search?q=Forbes",
+    "promoted_content": null,
+    "query": "Forbes",
+    "tweet_volume": 42180
+   },
+   {
+    "name": "Pablo Repetto",
+    "url": "http://twitter.com/search?q=%22Pablo+Repetto%22",
+    "promoted_content": null,
+    "query": "%22Pablo+Repetto%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Américas",
+    "url": "http://twitter.com/search?q=Am%C3%A9ricas",
+    "promoted_content": null,
+    "query": "Am%C3%A9ricas",
+    "tweet_volume": 19541
+   },
+   {
+    "name": "Nole",
+    "url": "http://twitter.com/search?q=Nole",
+    "promoted_content": null,
+    "query": "Nole",
+    "tweet_volume": null
+   },
+   {
+    "name": "John Wick",
+    "url": "http://twitter.com/search?q=%22John+Wick%22",
+    "promoted_content": null,
+    "query": "%22John+Wick%22",
+    "tweet_volume": 33821
+   },
+   {
+    "name": "Reagan",
+    "url": "http://twitter.com/search?q=Reagan",
+    "promoted_content": null,
+    "query": "Reagan",
+    "tweet_volume": 13069
+   },
+   {
+    "name": "Maracaná",
+    "url": "http://twitter.com/search?q=Maracan%C3%A1",
+    "promoted_content": null,
+    "query": "Maracan%C3%A1",
+    "tweet_volume": null
+   },
+   {
+    "name": "gaybor",
+    "url": "http://twitter.com/search?q=gaybor",
+    "promoted_content": null,
+    "query": "gaybor",
+    "tweet_volume": null
+   },
+   {
+    "name": "Montevideo",
+    "url": "http://twitter.com/search?q=Montevideo",
+    "promoted_content": null,
+    "query": "Montevideo",
+    "tweet_volume": null
+   },
+   {
+    "name": "Cada 8",
+    "url": "http://twitter.com/search?q=%22Cada+8%22",
+    "promoted_content": null,
+    "query": "%22Cada+8%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Nadia",
+    "url": "http://twitter.com/search?q=Nadia",
+    "promoted_content": null,
+    "query": "Nadia",
+    "tweet_volume": 18081
+   },
+   {
+    "name": "Centros de Salud",
+    "url": "http://twitter.com/search?q=%22Centros+de+Salud%22",
+    "promoted_content": null,
+    "query": "%22Centros+de+Salud%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "UNASE",
+    "url": "http://twitter.com/search?q=UNASE",
+    "promoted_content": null,
+    "query": "UNASE",
+    "tweet_volume": null
+   },
+   {
+    "name": "Jasmine",
+    "url": "http://twitter.com/search?q=Jasmine",
+    "promoted_content": null,
+    "query": "Jasmine",
+    "tweet_volume": 27032
+   },
+   {
+    "name": "Jorge Yunda",
+    "url": "http://twitter.com/search?q=%22Jorge+Yunda%22",
+    "promoted_content": null,
+    "query": "%22Jorge+Yunda%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Plata y Estrada",
+    "url": "http://twitter.com/search?q=%22Plata+y+Estrada%22",
+    "promoted_content": null,
+    "query": "%22Plata+y+Estrada%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Jeon Jungkook",
+    "url": "http://twitter.com/search?q=%22Jeon+Jungkook%22",
+    "promoted_content": null,
+    "query": "%22Jeon+Jungkook%22",
+    "tweet_volume": 121258
+   },
+   {
+    "name": "Chucho",
+    "url": "http://twitter.com/search?q=Chucho",
+    "promoted_content": null,
+    "query": "Chucho",
+    "tweet_volume": null
+   },
+   {
+    "name": "Tamara Salazar",
+    "url": "http://twitter.com/search?q=%22Tamara+Salazar%22",
+    "promoted_content": null,
+    "query": "%22Tamara+Salazar%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "kiara rodríguez",
+    "url": "http://twitter.com/search?q=%22kiara+rodr%C3%ADguez%22",
+    "promoted_content": null,
+    "query": "%22kiara+rodr%C3%ADguez%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "LOES",
+    "url": "http://twitter.com/search?q=LOES",
+    "promoted_content": null,
+    "query": "LOES",
+    "tweet_volume": null
+   },
+   {
+    "name": "Sergio Ramírez",
+    "url": "http://twitter.com/search?q=%22Sergio+Ram%C3%ADrez%22",
+    "promoted_content": null,
+    "query": "%22Sergio+Ram%C3%ADrez%22",
+    "tweet_volume": 12310
+   },
+   {
+    "name": "Novak Djokovic",
+    "url": "http://twitter.com/search?q=%22Novak+Djokovic%22",
+    "promoted_content": null,
+    "query": "%22Novak+Djokovic%22",
+    "tweet_volume": 10121
+   },
+   {
+    "name": "pelileo",
+    "url": "http://twitter.com/search?q=pelileo",
+    "promoted_content": null,
+    "query": "pelileo",
+    "tweet_volume": null
+   },
+   {
+    "name": "fondo monetario internacional",
+    "url": "http://twitter.com/search?q=%22fondo+monetario+internacional%22",
+    "promoted_content": null,
+    "query": "%22fondo+monetario+internacional%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Iglesias",
+    "url": "http://twitter.com/search?q=Iglesias",
+    "promoted_content": null,
+    "query": "Iglesias",
+    "tweet_volume": 26135
+   },
+   {
+    "name": "Vito",
+    "url": "http://twitter.com/search?q=Vito",
+    "promoted_content": null,
+    "query": "Vito",
+    "tweet_volume": null
+   },
+   {
+    "name": "De Arrascaeta",
+    "url": "http://twitter.com/search?q=%22De+Arrascaeta%22",
+    "promoted_content": null,
+    "query": "%22De+Arrascaeta%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Pon \"Halloween\"",
+    "url": "http://twitter.com/search?q=%22Pon+%22Halloween%22%22",
+    "promoted_content": null,
+    "query": "%22Pon+%22Halloween%22%22",
+    "tweet_volume": null
+   }
+  ],
+  "as_of": "2021-09-09T20:07:02Z",
+  "created_at": "2021-08-10T21:13:19Z",
+  "locations": [
+   {
+    "name": "Guayaquil",
+    "woeid": 375733
+   }
+  ]
+ }
+]

@@ -1,0 +1,12 @@
+name,url,query,tweet_volume,country
+Madame,http://twitter.com/search?q=Madame,Madame,18162.0,Italy
+Vanessa,http://twitter.com/search?q=Vanessa,Vanessa,16329.0,Italy
+Misha,http://twitter.com/search?q=Misha,Misha,11152.0,Italy
+gigi,http://twitter.com/search?q=gigi,gigi,39089.0,Italy
+Lucifer,http://twitter.com/search?q=Lucifer,Lucifer,31777.0,Italy
+Rai 1,http://twitter.com/search?q=%22Rai+1%22,%22Rai+1%22,10914.0,Italy
+Renato,http://twitter.com/search?q=Renato,Renato,15716.0,Italy
+Dean,http://twitter.com/search?q=Dean,Dean,29265.0,Italy
+#PlayStationShowcase,http://twitter.com/search?q=%23PlayStationShowcase,%23PlayStationShowcase,20502.0,Italy
+#TudorsItaly,http://twitter.com/search?q=%23TudorsItaly,%23TudorsItaly,22266.0,Italy
+#Matrix,http://twitter.com/search?q=%23Matrix,%23Matrix,34804.0,Italy

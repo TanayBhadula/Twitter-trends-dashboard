@@ -1,0 +1,364 @@
+[
+ {
+  "trends": [
+   {
+    "name": "#قضينا_الصيفيه",
+    "url": "http://twitter.com/search?q=%23%D9%82%D8%B6%D9%8A%D9%86%D8%A7_%D8%A7%D9%84%D8%B5%D9%8A%D9%81%D9%8A%D9%87",
+    "promoted_content": null,
+    "query": "%23%D9%82%D8%B6%D9%8A%D9%86%D8%A7_%D8%A7%D9%84%D8%B5%D9%8A%D9%81%D9%8A%D9%87",
+    "tweet_volume": null
+   },
+   {
+    "name": "#جعجع_مخبي_الصقر",
+    "url": "http://twitter.com/search?q=%23%D8%AC%D8%B9%D8%AC%D8%B9_%D9%85%D8%AE%D8%A8%D9%8A_%D8%A7%D9%84%D8%B5%D9%82%D8%B1",
+    "promoted_content": null,
+    "query": "%23%D8%AC%D8%B9%D8%AC%D8%B9_%D9%85%D8%AE%D8%A8%D9%8A_%D8%A7%D9%84%D8%B5%D9%82%D8%B1",
+    "tweet_volume": null
+   },
+   {
+    "name": "#تخيل_وتخير",
+    "url": "http://twitter.com/search?q=%23%D8%AA%D8%AE%D9%8A%D9%84_%D9%88%D8%AA%D8%AE%D9%8A%D8%B1",
+    "promoted_content": null,
+    "query": "%23%D8%AA%D8%AE%D9%8A%D9%84_%D9%88%D8%AA%D8%AE%D9%8A%D8%B1",
+    "tweet_volume": 12620
+   },
+   {
+    "name": "#البطاقه_التمويليه",
+    "url": "http://twitter.com/search?q=%23%D8%A7%D9%84%D8%A8%D8%B7%D8%A7%D9%82%D9%87_%D8%A7%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84%D9%8A%D9%87",
+    "promoted_content": null,
+    "query": "%23%D8%A7%D9%84%D8%A8%D8%B7%D8%A7%D9%82%D9%87_%D8%A7%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84%D9%8A%D9%87",
+    "tweet_volume": null
+   },
+   {
+    "name": "#رزق_الله_عالحريريه_السياسيه",
+    "url": "http://twitter.com/search?q=%23%D8%B1%D8%B2%D9%82_%D8%A7%D9%84%D9%84%D9%87_%D8%B9%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A%D9%87_%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D9%87",
+    "promoted_content": null,
+    "query": "%23%D8%B1%D8%B2%D9%82_%D8%A7%D9%84%D9%84%D9%87_%D8%B9%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A%D9%87_%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D9%87",
+    "tweet_volume": null
+   },
+   {
+    "name": "التطورات الحكوميه",
+    "url": "http://twitter.com/search?q=%22%D8%A7%D9%84%D8%AA%D8%B7%D9%88%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D9%8A%D9%87%22",
+    "promoted_content": null,
+    "query": "%22%D8%A7%D9%84%D8%AA%D8%B7%D9%88%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D9%8A%D9%87%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "الدول الاسوا",
+    "url": "http://twitter.com/search?q=%22%D8%A7%D9%84%D8%AF%D9%88%D9%84+%D8%A7%D9%84%D8%A7%D8%B3%D9%88%D8%A7%22",
+    "promoted_content": null,
+    "query": "%22%D8%A7%D9%84%D8%AF%D9%88%D9%84+%D8%A7%D9%84%D8%A7%D8%B3%D9%88%D8%A7%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "غير المدعومه",
+    "url": "http://twitter.com/search?q=%22%D8%BA%D9%8A%D8%B1+%D8%A7%D9%84%D9%85%D8%AF%D8%B9%D9%88%D9%85%D9%87%22",
+    "promoted_content": null,
+    "query": "%22%D8%BA%D9%8A%D8%B1+%D8%A7%D9%84%D9%85%D8%AF%D8%B9%D9%88%D9%85%D9%87%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "SAYRAFA",
+    "url": "http://twitter.com/search?q=SAYRAFA",
+    "promoted_content": null,
+    "query": "SAYRAFA",
+    "tweet_volume": null
+   },
+   {
+    "name": "السوق الموازيه",
+    "url": "http://twitter.com/search?q=%22%D8%A7%D9%84%D8%B3%D9%88%D9%82+%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B2%D9%8A%D9%87%22",
+    "promoted_content": null,
+    "query": "%22%D8%A7%D9%84%D8%B3%D9%88%D9%82+%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B2%D9%8A%D9%87%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "hobi",
+    "url": "http://twitter.com/search?q=hobi",
+    "promoted_content": null,
+    "query": "hobi",
+    "tweet_volume": 247766
+   },
+   {
+    "name": "عماد",
+    "url": "http://twitter.com/search?q=%D8%B9%D9%85%D8%A7%D8%AF",
+    "promoted_content": null,
+    "query": "%D8%B9%D9%85%D8%A7%D8%AF",
+    "tweet_volume": null
+   },
+   {
+    "name": "ايلول المهاجر",
+    "url": "http://twitter.com/search?q=%22%D8%A7%D9%8A%D9%84%D9%88%D9%84+%D8%A7%D9%84%D9%85%D9%87%D8%A7%D8%AC%D8%B1%22",
+    "promoted_content": null,
+    "query": "%22%D8%A7%D9%8A%D9%84%D9%88%D9%84+%D8%A7%D9%84%D9%85%D9%87%D8%A7%D8%AC%D8%B1%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "قوات الاحتلال",
+    "url": "http://twitter.com/search?q=%22%D9%82%D9%88%D8%A7%D8%AA+%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84%22",
+    "promoted_content": null,
+    "query": "%22%D9%82%D9%88%D8%A7%D8%AA+%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "الثلث المعطل",
+    "url": "http://twitter.com/search?q=%22%D8%A7%D9%84%D8%AB%D9%84%D8%AB+%D8%A7%D9%84%D9%85%D8%B9%D8%B7%D9%84%22",
+    "promoted_content": null,
+    "query": "%22%D8%A7%D9%84%D8%AB%D9%84%D8%AB+%D8%A7%D9%84%D9%85%D8%B9%D8%B7%D9%84%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "جنبلاط",
+    "url": "http://twitter.com/search?q=%D8%AC%D9%86%D8%A8%D9%84%D8%A7%D8%B7",
+    "promoted_content": null,
+    "query": "%D8%AC%D9%86%D8%A8%D9%84%D8%A7%D8%B7",
+    "tweet_volume": null
+   },
+   {
+    "name": "ابو هادي",
+    "url": "http://twitter.com/search?q=%22%D8%A7%D8%A8%D9%88+%D9%87%D8%A7%D8%AF%D9%8A%22",
+    "promoted_content": null,
+    "query": "%22%D8%A7%D8%A8%D9%88+%D9%87%D8%A7%D8%AF%D9%8A%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Bayern",
+    "url": "http://twitter.com/search?q=Bayern",
+    "promoted_content": null,
+    "query": "Bayern",
+    "tweet_volume": 22515
+   },
+   {
+    "name": "وليد",
+    "url": "http://twitter.com/search?q=%D9%88%D9%84%D9%8A%D8%AF",
+    "promoted_content": null,
+    "query": "%D9%88%D9%84%D9%8A%D8%AF",
+    "tweet_volume": 12068
+   },
+   {
+    "name": "اليكم التفاصيل",
+    "url": "http://twitter.com/search?q=%22%D8%A7%D9%84%D9%8A%D9%83%D9%85+%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84%22",
+    "promoted_content": null,
+    "query": "%22%D8%A7%D9%84%D9%8A%D9%83%D9%85+%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "فرنسا",
+    "url": "http://twitter.com/search?q=%D9%81%D8%B1%D9%86%D8%B3%D8%A7",
+    "promoted_content": null,
+    "query": "%D9%81%D8%B1%D9%86%D8%B3%D8%A7",
+    "tweet_volume": null
+   },
+   {
+    "name": "Iran",
+    "url": "http://twitter.com/search?q=Iran",
+    "promoted_content": null,
+    "query": "Iran",
+    "tweet_volume": 63550
+   },
+   {
+    "name": "الشفاء العاجل",
+    "url": "http://twitter.com/search?q=%22%D8%A7%D9%84%D8%B4%D9%81%D8%A7%D8%A1+%D8%A7%D9%84%D8%B9%D8%A7%D8%AC%D9%84%22",
+    "promoted_content": null,
+    "query": "%22%D8%A7%D9%84%D8%B4%D9%81%D8%A7%D8%A1+%D8%A7%D9%84%D8%B9%D8%A7%D8%AC%D9%84%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Paris",
+    "url": "http://twitter.com/search?q=Paris",
+    "promoted_content": null,
+    "query": "Paris",
+    "tweet_volume": 134572
+   },
+   {
+    "name": "Egypt",
+    "url": "http://twitter.com/search?q=Egypt",
+    "promoted_content": null,
+    "query": "Egypt",
+    "tweet_volume": 22917
+   },
+   {
+    "name": "كهربا",
+    "url": "http://twitter.com/search?q=%D9%83%D9%87%D8%B1%D8%A8%D8%A7",
+    "promoted_content": null,
+    "query": "%D9%83%D9%87%D8%B1%D8%A8%D8%A7",
+    "tweet_volume": null
+   },
+   {
+    "name": "علي محمد",
+    "url": "http://twitter.com/search?q=%22%D8%B9%D9%84%D9%8A+%D9%85%D8%AD%D9%85%D8%AF%22",
+    "promoted_content": null,
+    "query": "%22%D8%B9%D9%84%D9%8A+%D9%85%D8%AD%D9%85%D8%AF%22",
+    "tweet_volume": 170721
+   },
+   {
+    "name": "Saudi",
+    "url": "http://twitter.com/search?q=Saudi",
+    "promoted_content": null,
+    "query": "Saudi",
+    "tweet_volume": 36436
+   },
+   {
+    "name": "عبدالله",
+    "url": "http://twitter.com/search?q=%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87",
+    "promoted_content": null,
+    "query": "%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87",
+    "tweet_volume": 69684
+   },
+   {
+    "name": "شربل خليل",
+    "url": "http://twitter.com/search?q=%22%D8%B4%D8%B1%D8%A8%D9%84+%D8%AE%D9%84%D9%8A%D9%84%22",
+    "promoted_content": null,
+    "query": "%22%D8%B4%D8%B1%D8%A8%D9%84+%D8%AE%D9%84%D9%8A%D9%84%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Israeli",
+    "url": "http://twitter.com/search?q=Israeli",
+    "promoted_content": null,
+    "query": "Israeli",
+    "tweet_volume": 35767
+   },
+   {
+    "name": "Megan",
+    "url": "http://twitter.com/search?q=Megan",
+    "promoted_content": null,
+    "query": "Megan",
+    "tweet_volume": 522285
+   },
+   {
+    "name": "سوق سودا",
+    "url": "http://twitter.com/search?q=%22%D8%B3%D9%88%D9%82+%D8%B3%D9%88%D8%AF%D8%A7%22",
+    "promoted_content": null,
+    "query": "%22%D8%B3%D9%88%D9%82+%D8%B3%D9%88%D8%AF%D8%A7%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Lucky",
+    "url": "http://twitter.com/search?q=Lucky",
+    "promoted_content": null,
+    "query": "Lucky",
+    "tweet_volume": 333844
+   },
+   {
+    "name": "مريم",
+    "url": "http://twitter.com/search?q=%D9%85%D8%B1%D9%8A%D9%85",
+    "promoted_content": null,
+    "query": "%D9%85%D8%B1%D9%8A%D9%85",
+    "tweet_volume": 23025
+   },
+   {
+    "name": "Liverpool",
+    "url": "http://twitter.com/search?q=Liverpool",
+    "promoted_content": null,
+    "query": "Liverpool",
+    "tweet_volume": 35978
+   },
+   {
+    "name": "Selena",
+    "url": "http://twitter.com/search?q=Selena",
+    "promoted_content": null,
+    "query": "Selena",
+    "tweet_volume": 50209
+   },
+   {
+    "name": "bonjourr",
+    "url": "http://twitter.com/search?q=bonjourr",
+    "promoted_content": null,
+    "query": "bonjourr",
+    "tweet_volume": null
+   },
+   {
+    "name": "يوتيوب",
+    "url": "http://twitter.com/search?q=%D9%8A%D9%88%D8%AA%D9%8A%D9%88%D8%A8",
+    "promoted_content": null,
+    "query": "%D9%8A%D9%88%D8%AA%D9%8A%D9%88%D8%A8",
+    "tweet_volume": null
+   },
+   {
+    "name": "العهد القوي",
+    "url": "http://twitter.com/search?q=%22%D8%A7%D9%84%D8%B9%D9%87%D8%AF+%D8%A7%D9%84%D9%82%D9%88%D9%8A%22",
+    "promoted_content": null,
+    "query": "%22%D8%A7%D9%84%D8%B9%D9%87%D8%AF+%D8%A7%D9%84%D9%82%D9%88%D9%8A%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "رفيق الحريري",
+    "url": "http://twitter.com/search?q=%22%D8%B1%D9%81%D9%8A%D9%82+%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A%22",
+    "promoted_content": null,
+    "query": "%22%D8%B1%D9%81%D9%8A%D9%82+%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "دولار السوق السوداء",
+    "url": "http://twitter.com/search?q=%22%D8%AF%D9%88%D9%84%D8%A7%D8%B1+%D8%A7%D9%84%D8%B3%D9%88%D9%82+%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D8%A1%22",
+    "promoted_content": null,
+    "query": "%22%D8%AF%D9%88%D9%84%D8%A7%D8%B1+%D8%A7%D9%84%D8%B3%D9%88%D9%82+%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D8%A1%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "التويتر",
+    "url": "http://twitter.com/search?q=%D8%A7%D9%84%D8%AA%D9%88%D9%8A%D8%AA%D8%B1",
+    "promoted_content": null,
+    "query": "%D8%A7%D9%84%D8%AA%D9%88%D9%8A%D8%AA%D8%B1",
+    "tweet_volume": null
+   },
+   {
+    "name": "Bless",
+    "url": "http://twitter.com/search?q=Bless",
+    "promoted_content": null,
+    "query": "Bless",
+    "tweet_volume": 137952
+   },
+   {
+    "name": "كاس العالم",
+    "url": "http://twitter.com/search?q=%22%D9%83%D8%A7%D8%B3+%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%22",
+    "promoted_content": null,
+    "query": "%22%D9%83%D8%A7%D8%B3+%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%22",
+    "tweet_volume": 19549
+   },
+   {
+    "name": "Lana",
+    "url": "http://twitter.com/search?q=Lana",
+    "promoted_content": null,
+    "query": "Lana",
+    "tweet_volume": 60965
+   },
+   {
+    "name": "ابو علي",
+    "url": "http://twitter.com/search?q=%22%D8%A7%D8%A8%D9%88+%D8%B9%D9%84%D9%8A%22",
+    "promoted_content": null,
+    "query": "%22%D8%A7%D8%A8%D9%88+%D8%B9%D9%84%D9%8A%22",
+    "tweet_volume": 14602
+   },
+   {
+    "name": "ابو خليل",
+    "url": "http://twitter.com/search?q=%22%D8%A7%D8%A8%D9%88+%D8%AE%D9%84%D9%8A%D9%84%22",
+    "promoted_content": null,
+    "query": "%22%D8%A7%D8%A8%D9%88+%D8%AE%D9%84%D9%8A%D9%84%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "COVID-19",
+    "url": "http://twitter.com/search?q=COVID-19",
+    "promoted_content": null,
+    "query": "COVID-19",
+    "tweet_volume": 555751
+   },
+   {
+    "name": "Palestinian",
+    "url": "http://twitter.com/search?q=Palestinian",
+    "promoted_content": null,
+    "query": "Palestinian",
+    "tweet_volume": 25809
+   }
+  ],
+  "as_of": "2021-09-09T20:08:29Z",
+  "created_at": "2021-08-18T01:18:09Z",
+  "locations": [
+   {
+    "name": "Lebanon",
+    "woeid": 23424873
+   }
+  ]
+ }
+]

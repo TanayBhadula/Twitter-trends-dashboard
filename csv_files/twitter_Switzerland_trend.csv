@@ -1,0 +1,13 @@
+name,url,query,tweet_volume,country
+#Pimmelgate,http://twitter.com/search?q=%23Pimmelgate,%23Pimmelgate,19499.0,Switzerland
+Rodriguez,http://twitter.com/search?q=Rodriguez,Rodriguez,63420.0,Switzerland
+Experiment,http://twitter.com/search?q=Experiment,Experiment,26546.0,Switzerland
+Training,http://twitter.com/search?q=Training,Training,136861.0,Switzerland
+Trailer,http://twitter.com/search?q=Trailer,Trailer,210080.0,Switzerland
+Demo,http://twitter.com/search?q=Demo,Demo,32549.0,Switzerland
+Lockdowns,http://twitter.com/search?q=Lockdowns,Lockdowns,30437.0,Switzerland
+Opposition,http://twitter.com/search?q=Opposition,Opposition,61252.0,Switzerland
+Peut-être,http://twitter.com/search?q=Peut-%C3%AAtre,Peut-%C3%AAtre,41335.0,Switzerland
+Maske,http://twitter.com/search?q=Maske,Maske,31660.0,Switzerland
+Olympic,http://twitter.com/search?q=Olympic,Olympic,19387.0,Switzerland
+jungkook,http://twitter.com/search?q=jungkook,jungkook,883926.0,Switzerland

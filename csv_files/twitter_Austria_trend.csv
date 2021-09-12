@@ -1,0 +1,13 @@
+name,url,query,tweet_volume,country
+#klartext,http://twitter.com/search?q=%23klartext,%23klartext,10659.0,Austria
+#Pimmelgate,http://twitter.com/search?q=%23Pimmelgate,%23Pimmelgate,19499.0,Austria
+Laschet,http://twitter.com/search?q=Laschet,Laschet,40330.0,Austria
+#Matrix,http://twitter.com/search?q=%23Matrix,%23Matrix,34804.0,Austria
+Maske,http://twitter.com/search?q=Maske,Maske,31622.0,Austria
+Ungeimpfte,http://twitter.com/search?q=Ungeimpfte,Ungeimpfte,13400.0,Austria
+Marathon,http://twitter.com/search?q=Marathon,Marathon,13579.0,Austria
+hobi,http://twitter.com/search?q=hobi,hobi,247632.0,Austria
+Ivermectin,http://twitter.com/search?q=Ivermectin,Ivermectin,105954.0,Austria
+Baekhyun,http://twitter.com/search?q=Baekhyun,Baekhyun,118363.0,Austria
+Trailer,http://twitter.com/search?q=Trailer,Trailer,209929.0,Austria
+Paris,http://twitter.com/search?q=Paris,Paris,134368.0,Austria

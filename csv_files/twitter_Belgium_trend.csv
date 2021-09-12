@@ -1,0 +1,12 @@
+name,url,query,tweet_volume,country
+Matrix,http://twitter.com/search?q=Matrix,Matrix,273206.0,Belgium
+Berserk,http://twitter.com/search?q=Berserk,Berserk,28699.0,Belgium
+Kung,http://twitter.com/search?q=Kung,Kung,123158.0,Belgium
+hobi,http://twitter.com/search?q=hobi,hobi,247766.0,Belgium
+Martinez,http://twitter.com/search?q=Martinez,Martinez,32033.0,Belgium
+jennie,http://twitter.com/search?q=jennie,jennie,604426.0,Belgium
+John Wick,http://twitter.com/search?q=%22John+Wick%22,%22John+Wick%22,33861.0,Belgium
+Zara,http://twitter.com/search?q=Zara,Zara,24290.0,Belgium
+Epic,http://twitter.com/search?q=Epic,Epic,83321.0,Belgium
+Apex,http://twitter.com/search?q=Apex,Apex,161095.0,Belgium
+Patrick,http://twitter.com/search?q=Patrick,Patrick,74624.0,Belgium

@@ -1,0 +1,14 @@
+name,url,query,tweet_volume,country
+#RMDayConEntel,http://twitter.com/search?q=%23RMDayConEntel,%23RMDayConEntel,38592.0,Dominican Republic
+Porsche,http://twitter.com/search?q=Porsche,Porsche,11811.0,Dominican Republic
+#3JComesToDominateWithHisDance,http://twitter.com/search?q=%233JComesToDominateWithHisDance,%233JComesToDominateWithHisDance,197877.0,Dominican Republic
+Narco,http://twitter.com/search?q=Narco,Narco,16874.0,Dominican Republic
+Matrix,http://twitter.com/search?q=Matrix,Matrix,272976.0,Dominican Republic
+Jeter,http://twitter.com/search?q=Jeter,Jeter,44297.0,Dominican Republic
+Pronta,http://twitter.com/search?q=Pronta,Pronta,21282.0,Dominican Republic
+Suprema,http://twitter.com/search?q=Suprema,Suprema,47091.0,Dominican Republic
+John Wick,http://twitter.com/search?q=%22John+Wick%22,%22John+Wick%22,33846.0,Dominican Republic
+Kylie,http://twitter.com/search?q=Kylie,Kylie,78178.0,Dominican Republic
+Sergio Ramírez,http://twitter.com/search?q=%22Sergio+Ram%C3%ADrez%22,%22Sergio+Ram%C3%ADrez%22,12305.0,Dominican Republic
+México,http://twitter.com/search?q=M%C3%A9xico,M%C3%A9xico,402886.0,Dominican Republic
+Cesar,http://twitter.com/search?q=Cesar,Cesar,57944.0,Dominican Republic

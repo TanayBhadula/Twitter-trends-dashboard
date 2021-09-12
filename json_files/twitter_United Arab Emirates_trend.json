@@ -1,0 +1,364 @@
+[
+ {
+  "trends": [
+   {
+    "name": "#محمد_ابن_الذيب",
+    "url": "http://twitter.com/search?q=%23%D9%85%D8%AD%D9%85%D8%AF_%D8%A7%D8%A8%D9%86_%D8%A7%D9%84%D8%B0%D9%8A%D8%A8",
+    "promoted_content": null,
+    "query": "%23%D9%85%D8%AD%D9%85%D8%AF_%D8%A7%D8%A8%D9%86_%D8%A7%D9%84%D8%B0%D9%8A%D8%A8",
+    "tweet_volume": 11073
+   },
+   {
+    "name": "#PlayStationShowcase",
+    "url": "http://twitter.com/search?q=%23PlayStationShowcase",
+    "promoted_content": null,
+    "query": "%23PlayStationShowcase",
+    "tweet_volume": 21396
+   },
+   {
+    "name": "#DubaiMetro",
+    "url": "http://twitter.com/search?q=%23DubaiMetro",
+    "promoted_content": null,
+    "query": "%23DubaiMetro",
+    "tweet_volume": null
+   },
+   {
+    "name": "#انقذوا_دانه_المساعيد",
+    "url": "http://twitter.com/search?q=%23%D8%A7%D9%86%D9%82%D8%B0%D9%88%D8%A7_%D8%AF%D8%A7%D9%86%D9%87_%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B9%D9%8A%D8%AF",
+    "promoted_content": null,
+    "query": "%23%D8%A7%D9%86%D9%82%D8%B0%D9%88%D8%A7_%D8%AF%D8%A7%D9%86%D9%87_%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B9%D9%8A%D8%AF",
+    "tweet_volume": 36090
+   },
+   {
+    "name": "#T20WorldCup",
+    "url": "http://twitter.com/search?q=%23T20WorldCup",
+    "promoted_content": null,
+    "query": "%23T20WorldCup",
+    "tweet_volume": 75296
+   },
+   {
+    "name": "BTOB",
+    "url": "http://twitter.com/search?q=BTOB",
+    "promoted_content": null,
+    "query": "BTOB",
+    "tweet_volume": 180008
+   },
+   {
+    "name": "BCCI",
+    "url": "http://twitter.com/search?q=BCCI",
+    "promoted_content": null,
+    "query": "BCCI",
+    "tweet_volume": 105370
+   },
+   {
+    "name": "اليوم الخميس",
+    "url": "http://twitter.com/search?q=%22%D8%A7%D9%84%D9%8A%D9%88%D9%85+%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3%22",
+    "promoted_content": null,
+    "query": "%22%D8%A7%D9%84%D9%8A%D9%88%D9%85+%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3%22",
+    "tweet_volume": 18168
+   },
+   {
+    "name": "Baekhyun",
+    "url": "http://twitter.com/search?q=Baekhyun",
+    "promoted_content": null,
+    "query": "Baekhyun",
+    "tweet_volume": 118363
+   },
+   {
+    "name": "الخميس الونيس",
+    "url": "http://twitter.com/search?q=%22%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3+%D8%A7%D9%84%D9%88%D9%86%D9%8A%D8%B3%22",
+    "promoted_content": null,
+    "query": "%22%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3+%D8%A7%D9%84%D9%88%D9%86%D9%8A%D8%B3%22",
+    "tweet_volume": 90258
+   },
+   {
+    "name": "Mama Mary",
+    "url": "http://twitter.com/search?q=%22Mama+Mary%22",
+    "promoted_content": null,
+    "query": "%22Mama+Mary%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "الامور المتروكه",
+    "url": "http://twitter.com/search?q=%22%D8%A7%D9%84%D8%A7%D9%85%D9%88%D8%B1+%D8%A7%D9%84%D9%85%D8%AA%D8%B1%D9%88%D9%83%D9%87%22",
+    "promoted_content": null,
+    "query": "%22%D8%A7%D9%84%D8%A7%D9%85%D9%88%D8%B1+%D8%A7%D9%84%D9%85%D8%AA%D8%B1%D9%88%D9%83%D9%87%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "الجوله الثالثه",
+    "url": "http://twitter.com/search?q=%22%D8%A7%D9%84%D8%AC%D9%88%D9%84%D9%87+%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D9%87%22",
+    "promoted_content": null,
+    "query": "%22%D8%A7%D9%84%D8%AC%D9%88%D9%84%D9%87+%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D9%87%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Iranian",
+    "url": "http://twitter.com/search?q=Iranian",
+    "promoted_content": null,
+    "query": "Iranian",
+    "tweet_volume": 13177
+   },
+   {
+    "name": "jaehyun",
+    "url": "http://twitter.com/search?q=jaehyun",
+    "promoted_content": null,
+    "query": "jaehyun",
+    "tweet_volume": 304863
+   },
+   {
+    "name": "Seoul",
+    "url": "http://twitter.com/search?q=Seoul",
+    "promoted_content": null,
+    "query": "Seoul",
+    "tweet_volume": 278014
+   },
+   {
+    "name": "Jeon Jungkook",
+    "url": "http://twitter.com/search?q=%22Jeon+Jungkook%22",
+    "promoted_content": null,
+    "query": "%22Jeon+Jungkook%22",
+    "tweet_volume": 121332
+   },
+   {
+    "name": "11 سبتمبر",
+    "url": "http://twitter.com/search?q=%2211+%D8%B3%D8%A8%D8%AA%D9%85%D8%A8%D8%B1%22",
+    "promoted_content": null,
+    "query": "%2211+%D8%B3%D8%A8%D8%AA%D9%85%D8%A8%D8%B1%22",
+    "tweet_volume": 12750
+   },
+   {
+    "name": "Biafra",
+    "url": "http://twitter.com/search?q=Biafra",
+    "promoted_content": null,
+    "query": "Biafra",
+    "tweet_volume": 26872
+   },
+   {
+    "name": "9 سبتمبر 2021",
+    "url": "http://twitter.com/search?q=%229+%D8%B3%D8%A8%D8%AA%D9%85%D8%A8%D8%B1+2021%22",
+    "promoted_content": null,
+    "query": "%229+%D8%B3%D8%A8%D8%AA%D9%85%D8%A8%D8%B1+2021%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "الاتحاد الدولي",
+    "url": "http://twitter.com/search?q=%22%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF+%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%22",
+    "promoted_content": null,
+    "query": "%22%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF+%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Lagos",
+    "url": "http://twitter.com/search?q=Lagos",
+    "promoted_content": null,
+    "query": "Lagos",
+    "tweet_volume": 52006
+   },
+   {
+    "name": "Razan Al Mubarak",
+    "url": "http://twitter.com/search?q=%22Razan+Al+Mubarak%22",
+    "promoted_content": null,
+    "query": "%22Razan+Al+Mubarak%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Ronaldo",
+    "url": "http://twitter.com/search?q=Ronaldo",
+    "promoted_content": null,
+    "query": "Ronaldo",
+    "tweet_volume": 159394
+   },
+   {
+    "name": "THANK U",
+    "url": "http://twitter.com/search?q=%22THANK+U%22",
+    "promoted_content": null,
+    "query": "%22THANK+U%22",
+    "tweet_volume": 134965
+   },
+   {
+    "name": "الهلال",
+    "url": "http://twitter.com/search?q=%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84",
+    "promoted_content": null,
+    "query": "%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84",
+    "tweet_volume": 64725
+   },
+   {
+    "name": "Zimbabwe",
+    "url": "http://twitter.com/search?q=Zimbabwe",
+    "promoted_content": null,
+    "query": "Zimbabwe",
+    "tweet_volume": 10185
+   },
+   {
+    "name": "عمري عمر",
+    "url": "http://twitter.com/search?q=%22%D8%B9%D9%85%D8%B1%D9%8A+%D8%B9%D9%85%D8%B1%22",
+    "promoted_content": null,
+    "query": "%22%D8%B9%D9%85%D8%B1%D9%8A+%D8%B9%D9%85%D8%B1%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "بو عبدالله",
+    "url": "http://twitter.com/search?q=%22%D8%A8%D9%88+%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87%22",
+    "promoted_content": null,
+    "query": "%22%D8%A8%D9%88+%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Megan",
+    "url": "http://twitter.com/search?q=Megan",
+    "promoted_content": null,
+    "query": "Megan",
+    "tweet_volume": 522285
+   },
+   {
+    "name": "Chahal",
+    "url": "http://twitter.com/search?q=Chahal",
+    "promoted_content": null,
+    "query": "Chahal",
+    "tweet_volume": 14541
+   },
+   {
+    "name": "Sabrina",
+    "url": "http://twitter.com/search?q=Sabrina",
+    "promoted_content": null,
+    "query": "Sabrina",
+    "tweet_volume": 69673
+   },
+   {
+    "name": "Mayuri",
+    "url": "http://twitter.com/search?q=Mayuri",
+    "promoted_content": null,
+    "query": "Mayuri",
+    "tweet_volume": null
+   },
+   {
+    "name": "Kylie",
+    "url": "http://twitter.com/search?q=Kylie",
+    "promoted_content": null,
+    "query": "Kylie",
+    "tweet_volume": 78296
+   },
+   {
+    "name": "Rose",
+    "url": "http://twitter.com/search?q=Rose",
+    "promoted_content": null,
+    "query": "Rose",
+    "tweet_volume": 233324
+   },
+   {
+    "name": "ترك امره",
+    "url": "http://twitter.com/search?q=%22%D8%AA%D8%B1%D9%83+%D8%A7%D9%85%D8%B1%D9%87%22",
+    "promoted_content": null,
+    "query": "%22%D8%AA%D8%B1%D9%83+%D8%A7%D9%85%D8%B1%D9%87%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Arya",
+    "url": "http://twitter.com/search?q=Arya",
+    "promoted_content": null,
+    "query": "Arya",
+    "tweet_volume": 12477
+   },
+   {
+    "name": "Zoom",
+    "url": "http://twitter.com/search?q=Zoom",
+    "promoted_content": null,
+    "query": "Zoom",
+    "tweet_volume": 112089
+   },
+   {
+    "name": "IPOB",
+    "url": "http://twitter.com/search?q=IPOB",
+    "promoted_content": null,
+    "query": "IPOB",
+    "tweet_volume": 30242
+   },
+   {
+    "name": "hoshi",
+    "url": "http://twitter.com/search?q=hoshi",
+    "promoted_content": null,
+    "query": "hoshi",
+    "tweet_volume": 44240
+   },
+   {
+    "name": "jennie",
+    "url": "http://twitter.com/search?q=jennie",
+    "promoted_content": null,
+    "query": "jennie",
+    "tweet_volume": 604426
+   },
+   {
+    "name": "Persian",
+    "url": "http://twitter.com/search?q=Persian",
+    "promoted_content": null,
+    "query": "Persian",
+    "tweet_volume": null
+   },
+   {
+    "name": "Russian",
+    "url": "http://twitter.com/search?q=Russian",
+    "promoted_content": null,
+    "query": "Russian",
+    "tweet_volume": 52120
+   },
+   {
+    "name": "مهدي علي",
+    "url": "http://twitter.com/search?q=%22%D9%85%D9%87%D8%AF%D9%8A+%D8%B9%D9%84%D9%8A%22",
+    "promoted_content": null,
+    "query": "%22%D9%85%D9%87%D8%AF%D9%8A+%D8%B9%D9%84%D9%8A%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "أحمد",
+    "url": "http://twitter.com/search?q=%D8%A3%D8%AD%D9%85%D8%AF",
+    "promoted_content": null,
+    "query": "%D8%A3%D8%AD%D9%85%D8%AF",
+    "tweet_volume": 83815
+   },
+   {
+    "name": "ZANU PF",
+    "url": "http://twitter.com/search?q=%22ZANU+PF%22",
+    "promoted_content": null,
+    "query": "%22ZANU+PF%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "شتات امره",
+    "url": "http://twitter.com/search?q=%22%D8%B4%D8%AA%D8%A7%D8%AA+%D8%A7%D9%85%D8%B1%D9%87%22",
+    "promoted_content": null,
+    "query": "%22%D8%B4%D8%AA%D8%A7%D8%AA+%D8%A7%D9%85%D8%B1%D9%87%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Egypt",
+    "url": "http://twitter.com/search?q=Egypt",
+    "promoted_content": null,
+    "query": "Egypt",
+    "tweet_volume": 22898
+   },
+   {
+    "name": "غريزمان",
+    "url": "http://twitter.com/search?q=%D8%BA%D8%B1%D9%8A%D8%B2%D9%85%D8%A7%D9%86",
+    "promoted_content": null,
+    "query": "%D8%BA%D8%B1%D9%8A%D8%B2%D9%85%D8%A7%D9%86",
+    "tweet_volume": null
+   },
+   {
+    "name": "Tamil",
+    "url": "http://twitter.com/search?q=Tamil",
+    "promoted_content": null,
+    "query": "Tamil",
+    "tweet_volume": 41198
+   }
+  ],
+  "as_of": "2021-09-09T20:08:04Z",
+  "created_at": "2021-08-18T22:06:36Z",
+  "locations": [
+   {
+    "name": "Abu Dhabi",
+    "woeid": 1940330
+   }
+  ]
+ }
+]

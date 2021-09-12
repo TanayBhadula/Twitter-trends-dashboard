@@ -1,0 +1,9 @@
+name,url,query,tweet_volume,country
+China,http://twitter.com/search?q=China,China,284310.0,Latvia
+Diez,http://twitter.com/search?q=Diez,Diez,28550.0,Latvia
+Apple,http://twitter.com/search?q=Apple,Apple,399681.0,Latvia
+Labs,http://twitter.com/search?q=Labs,Labs,17624.0,Latvia
+Bitcoin,http://twitter.com/search?q=Bitcoin,Bitcoin,333150.0,Latvia
+aldim,http://twitter.com/search?q=aldim,aldim,13473.0,Latvia
+kurā,http://twitter.com/search?q=kur%C4%81,kur%C4%81,10790.0,Latvia
+iPhone,http://twitter.com/search?q=iPhone,iPhone,314882.0,Latvia

@@ -1,0 +1,9 @@
+name,url,query,tweet_volume,country
+#klartext,http://twitter.com/search?q=%23klartext,%23klartext,10659.0,Germany
+#PlayStationShowcase,http://twitter.com/search?q=%23PlayStationShowcase,%23PlayStationShowcase,20502.0,Germany
+Matrix,http://twitter.com/search?q=Matrix,Matrix,272744.0,Germany
+Luca,http://twitter.com/search?q=Luca,Luca,27377.0,Germany
+Misha,http://twitter.com/search?q=Misha,Misha,11162.0,Germany
+Trailer,http://twitter.com/search?q=Trailer,Trailer,209929.0,Germany
+John Wick,http://twitter.com/search?q=%22John+Wick%22,%22John+Wick%22,33821.0,Germany
+#Amazon,http://twitter.com/search?q=%23Amazon,%23Amazon,27813.0,Germany

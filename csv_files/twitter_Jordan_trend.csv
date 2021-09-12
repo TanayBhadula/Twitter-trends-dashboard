@@ -1,0 +1,25 @@
+name,url,query,tweet_volume,country
+#انقذوا_دانه_المساعيد,http://twitter.com/search?q=%23%D8%A7%D9%86%D9%82%D8%B0%D9%88%D8%A7_%D8%AF%D8%A7%D9%86%D9%87_%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B9%D9%8A%D8%AF,%23%D8%A7%D9%86%D9%82%D8%B0%D9%88%D8%A7_%D8%AF%D8%A7%D9%86%D9%87_%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B9%D9%8A%D8%AF,36071.0,Jordan
+#الخميس_الونيس,http://twitter.com/search?q=%23%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3_%D8%A7%D9%84%D9%88%D9%86%D9%8A%D8%B3,%23%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3_%D8%A7%D9%84%D9%88%D9%86%D9%8A%D8%B3,84148.0,Jordan
+اليوم الخميس,http://twitter.com/search?q=%22%D8%A7%D9%84%D9%8A%D9%88%D9%85+%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3%22,%22%D8%A7%D9%84%D9%8A%D9%88%D9%85+%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3%22,18149.0,Jordan
+ايفون,http://twitter.com/search?q=%D8%A7%D9%8A%D9%81%D9%88%D9%86,%D8%A7%D9%8A%D9%81%D9%88%D9%86,58489.0,Jordan
+#صباح_Iلخير,http://twitter.com/search?q=%23%D8%B5%D8%A8%D8%A7%D8%AD_I%D9%84%D8%AE%D9%8A%D8%B1,%23%D8%B5%D8%A8%D8%A7%D8%AD_I%D9%84%D8%AE%D9%8A%D8%B1,27773.0,Jordan
+محمود,http://twitter.com/search?q=%D9%85%D8%AD%D9%85%D9%88%D8%AF,%D9%85%D8%AD%D9%85%D9%88%D8%AF,15731.0,Jordan
+I Vote,http://twitter.com/search?q=%22I+Vote%22,%22I+Vote%22,574349.0,Jordan
+COVID-19,http://twitter.com/search?q=COVID-19,COVID-19,555751.0,Jordan
+yoongis first love,http://twitter.com/search?q=%22yoongis+first+love%22,%22yoongis+first+love%22,12341.0,Jordan
+علي الخاص,http://twitter.com/search?q=%22%D8%B9%D9%84%D9%8A+%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%22,%22%D8%B9%D9%84%D9%8A+%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%22,15275.0,Jordan
+السعودية,http://twitter.com/search?q=%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9,%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9,331338.0,Jordan
+Palestinian,http://twitter.com/search?q=Palestinian,Palestinian,25809.0,Jordan
+شمال الرياض,http://twitter.com/search?q=%22%D8%B4%D9%85%D8%A7%D9%84+%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%22,%22%D8%B4%D9%85%D8%A7%D9%84+%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%22,23292.0,Jordan
+Middle East,http://twitter.com/search?q=%22Middle+East%22,%22Middle+East%22,18986.0,Jordan
+Google,http://twitter.com/search?q=Google,Google,724315.0,Jordan
+China,http://twitter.com/search?q=China,China,284310.0,Jordan
+Taylor,http://twitter.com/search?q=Taylor,Taylor,115634.0,Jordan
+عبدالله,http://twitter.com/search?q=%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87,%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87,69684.0,Jordan
+الإمارات,http://twitter.com/search?q=%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA,%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA,95855.0,Jordan
+Syria,http://twitter.com/search?q=Syria,Syria,18137.0,Jordan
+رونالدو,http://twitter.com/search?q=%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88,%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88,10890.0,Jordan
+أمريكا,http://twitter.com/search?q=%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7,%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7,40727.0,Jordan
+اليوتيوب,http://twitter.com/search?q=%D8%A7%D9%84%D9%8A%D9%88%D8%AA%D9%8A%D9%88%D8%A8,%D8%A7%D9%84%D9%8A%D9%88%D8%AA%D9%8A%D9%88%D8%A8,11031.0,Jordan
+#المغرب,http://twitter.com/search?q=%23%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8,%23%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8,10515.0,Jordan

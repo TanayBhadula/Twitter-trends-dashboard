@@ -1,0 +1,9 @@
+name,url,query,tweet_volume,country
+Matrix,http://twitter.com/search?q=Matrix,Matrix,272744.0,Sweden
+Ville,http://twitter.com/search?q=Ville,Ville,31419.0,Sweden
+#PlayStationShowcase,http://twitter.com/search?q=%23PlayStationShowcase,%23PlayStationShowcase,20502.0,Sweden
+Qatar,http://twitter.com/search?q=Qatar,Qatar,36176.0,Sweden
+Diamond League,http://twitter.com/search?q=%22Diamond+League%22,%22Diamond+League%22,10542.0,Sweden
+New World Order,http://twitter.com/search?q=%22New+World+Order%22,%22New+World+Order%22,77112.0,Sweden
+BTOB,http://twitter.com/search?q=BTOB,BTOB,179997.0,Sweden
+Arsenal,http://twitter.com/search?q=Arsenal,Arsenal,59323.0,Sweden

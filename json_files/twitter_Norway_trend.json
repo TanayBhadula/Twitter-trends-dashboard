@@ -1,0 +1,364 @@
+[
+ {
+  "trends": [
+   {
+    "name": "Ida Fladen",
+    "url": "http://twitter.com/search?q=%22Ida+Fladen%22",
+    "promoted_content": null,
+    "query": "%22Ida+Fladen%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Mads Hansen",
+    "url": "http://twitter.com/search?q=%22Mads+Hansen%22",
+    "promoted_content": null,
+    "query": "%22Mads+Hansen%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Spårtsklubben",
+    "url": "http://twitter.com/search?q=Sp%C3%A5rtsklubben",
+    "promoted_content": null,
+    "query": "Sp%C3%A5rtsklubben",
+    "tweet_volume": null
+   },
+   {
+    "name": "#2valg",
+    "url": "http://twitter.com/search?q=%232valg",
+    "promoted_content": null,
+    "query": "%232valg",
+    "tweet_volume": null
+   },
+   {
+    "name": "#dax18",
+    "url": "http://twitter.com/search?q=%23dax18",
+    "promoted_content": null,
+    "query": "%23dax18",
+    "tweet_volume": null
+   },
+   {
+    "name": "Søviknes",
+    "url": "http://twitter.com/search?q=S%C3%B8viknes",
+    "promoted_content": null,
+    "query": "S%C3%B8viknes",
+    "tweet_volume": null
+   },
+   {
+    "name": "#2sjakk",
+    "url": "http://twitter.com/search?q=%232sjakk",
+    "promoted_content": null,
+    "query": "%232sjakk",
+    "tweet_volume": null
+   },
+   {
+    "name": "Matrix",
+    "url": "http://twitter.com/search?q=Matrix",
+    "promoted_content": null,
+    "query": "Matrix",
+    "tweet_volume": 272976
+   },
+   {
+    "name": "buksa",
+    "url": "http://twitter.com/search?q=buksa",
+    "promoted_content": null,
+    "query": "buksa",
+    "tweet_volume": null
+   },
+   {
+    "name": "VGTV",
+    "url": "http://twitter.com/search?q=VGTV",
+    "promoted_content": null,
+    "query": "VGTV",
+    "tweet_volume": null
+   },
+   {
+    "name": "Kondolerer",
+    "url": "http://twitter.com/search?q=Kondolerer",
+    "promoted_content": null,
+    "query": "Kondolerer",
+    "tweet_volume": null
+   },
+   {
+    "name": "Unge Høyre",
+    "url": "http://twitter.com/search?q=%22Unge+H%C3%B8yre%22",
+    "promoted_content": null,
+    "query": "%22Unge+H%C3%B8yre%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "NRKs",
+    "url": "http://twitter.com/search?q=NRKs",
+    "promoted_content": null,
+    "query": "NRKs",
+    "tweet_volume": null
+   },
+   {
+    "name": "Kurt",
+    "url": "http://twitter.com/search?q=Kurt",
+    "promoted_content": null,
+    "query": "Kurt",
+    "tweet_volume": 16000
+   },
+   {
+    "name": "Canada",
+    "url": "http://twitter.com/search?q=Canada",
+    "promoted_content": null,
+    "query": "Canada",
+    "tweet_volume": 234478
+   },
+   {
+    "name": "Kabul",
+    "url": "http://twitter.com/search?q=Kabul",
+    "promoted_content": null,
+    "query": "Kabul",
+    "tweet_volume": 159932
+   },
+   {
+    "name": "#valg2021",
+    "url": "http://twitter.com/search?q=%23valg2021",
+    "promoted_content": null,
+    "query": "%23valg2021",
+    "tweet_volume": null
+   },
+   {
+    "name": "viken",
+    "url": "http://twitter.com/search?q=viken",
+    "promoted_content": null,
+    "query": "viken",
+    "tweet_volume": null
+   },
+   {
+    "name": "Qatar",
+    "url": "http://twitter.com/search?q=Qatar",
+    "promoted_content": null,
+    "query": "Qatar",
+    "tweet_volume": 36155
+   },
+   {
+    "name": "Depends",
+    "url": "http://twitter.com/search?q=Depends",
+    "promoted_content": null,
+    "query": "Depends",
+    "tweet_volume": 48056
+   },
+   {
+    "name": "Kandahar",
+    "url": "http://twitter.com/search?q=Kandahar",
+    "promoted_content": null,
+    "query": "Kandahar",
+    "tweet_volume": null
+   },
+   {
+    "name": "Stortinget",
+    "url": "http://twitter.com/search?q=Stortinget",
+    "promoted_content": null,
+    "query": "Stortinget",
+    "tweet_volume": null
+   },
+   {
+    "name": "Moderna",
+    "url": "http://twitter.com/search?q=Moderna",
+    "promoted_content": null,
+    "query": "Moderna",
+    "tweet_volume": 41866
+   },
+   {
+    "name": "Poland",
+    "url": "http://twitter.com/search?q=Poland",
+    "promoted_content": null,
+    "query": "Poland",
+    "tweet_volume": 26108
+   },
+   {
+    "name": "Jota",
+    "url": "http://twitter.com/search?q=Jota",
+    "promoted_content": null,
+    "query": "Jota",
+    "tweet_volume": 11666
+   },
+   {
+    "name": "Rødt",
+    "url": "http://twitter.com/search?q=R%C3%B8dt",
+    "promoted_content": null,
+    "query": "R%C3%B8dt",
+    "tweet_volume": null
+   },
+   {
+    "name": "#FFXIV400kSweepstakes",
+    "url": "http://twitter.com/search?q=%23FFXIV400kSweepstakes",
+    "promoted_content": null,
+    "query": "%23FFXIV400kSweepstakes",
+    "tweet_volume": 11490
+   },
+   {
+    "name": "Ropstad",
+    "url": "http://twitter.com/search?q=Ropstad",
+    "promoted_content": null,
+    "query": "Ropstad",
+    "tweet_volume": null
+   },
+   {
+    "name": "trædal",
+    "url": "http://twitter.com/search?q=tr%C3%A6dal",
+    "promoted_content": null,
+    "query": "tr%C3%A6dal",
+    "tweet_volume": null
+   },
+   {
+    "name": "rotevatn",
+    "url": "http://twitter.com/search?q=rotevatn",
+    "promoted_content": null,
+    "query": "rotevatn",
+    "tweet_volume": null
+   },
+   {
+    "name": "Iceland",
+    "url": "http://twitter.com/search?q=Iceland",
+    "promoted_content": null,
+    "query": "Iceland",
+    "tweet_volume": 15163
+   },
+   {
+    "name": "Stakkars",
+    "url": "http://twitter.com/search?q=Stakkars",
+    "promoted_content": null,
+    "query": "Stakkars",
+    "tweet_volume": null
+   },
+   {
+    "name": "tinder",
+    "url": "http://twitter.com/search?q=tinder",
+    "promoted_content": null,
+    "query": "tinder",
+    "tweet_volume": 41658
+   },
+   {
+    "name": "Solskjær",
+    "url": "http://twitter.com/search?q=Solskj%C3%A6r",
+    "promoted_content": null,
+    "query": "Solskj%C3%A6r",
+    "tweet_volume": null
+   },
+   {
+    "name": "Champions League",
+    "url": "http://twitter.com/search?q=%22Champions+League%22",
+    "promoted_content": null,
+    "query": "%22Champions+League%22",
+    "tweet_volume": 29562
+   },
+   {
+    "name": "Buhari",
+    "url": "http://twitter.com/search?q=Buhari",
+    "promoted_content": null,
+    "query": "Buhari",
+    "tweet_volume": 50793
+   },
+   {
+    "name": "Deilig",
+    "url": "http://twitter.com/search?q=Deilig",
+    "promoted_content": null,
+    "query": "Deilig",
+    "tweet_volume": null
+   },
+   {
+    "name": "Snakker",
+    "url": "http://twitter.com/search?q=Snakker",
+    "promoted_content": null,
+    "query": "Snakker",
+    "tweet_volume": null
+   },
+   {
+    "name": "Barca",
+    "url": "http://twitter.com/search?q=Barca",
+    "promoted_content": null,
+    "query": "Barca",
+    "tweet_volume": 42222
+   },
+   {
+    "name": "Phil",
+    "url": "http://twitter.com/search?q=Phil",
+    "promoted_content": null,
+    "query": "Phil",
+    "tweet_volume": 33347
+   },
+   {
+    "name": "New World Order",
+    "url": "http://twitter.com/search?q=%22New+World+Order%22",
+    "promoted_content": null,
+    "query": "%22New+World+Order%22",
+    "tweet_volume": 77158
+   },
+   {
+    "name": "Sveits",
+    "url": "http://twitter.com/search?q=Sveits",
+    "promoted_content": null,
+    "query": "Sveits",
+    "tweet_volume": null
+   },
+   {
+    "name": "hobi",
+    "url": "http://twitter.com/search?q=hobi",
+    "promoted_content": null,
+    "query": "hobi",
+    "tweet_volume": 247692
+   },
+   {
+    "name": "dei grøne",
+    "url": "http://twitter.com/search?q=%22dei+gr%C3%B8ne%22",
+    "promoted_content": null,
+    "query": "%22dei+gr%C3%B8ne%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Werner",
+    "url": "http://twitter.com/search?q=Werner",
+    "promoted_content": null,
+    "query": "Werner",
+    "tweet_volume": 25189
+   },
+   {
+    "name": "Japan",
+    "url": "http://twitter.com/search?q=Japan",
+    "promoted_content": null,
+    "query": "Japan",
+    "tweet_volume": 348777
+   },
+   {
+    "name": "Jessheim",
+    "url": "http://twitter.com/search?q=Jessheim",
+    "promoted_content": null,
+    "query": "Jessheim",
+    "tweet_volume": null
+   },
+   {
+    "name": "San Marino",
+    "url": "http://twitter.com/search?q=%22San+Marino%22",
+    "promoted_content": null,
+    "query": "%22San+Marino%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Tromsø",
+    "url": "http://twitter.com/search?q=Troms%C3%B8",
+    "promoted_content": null,
+    "query": "Troms%C3%B8",
+    "tweet_volume": null
+   },
+   {
+    "name": "klassekampen",
+    "url": "http://twitter.com/search?q=klassekampen",
+    "promoted_content": null,
+    "query": "klassekampen",
+    "tweet_volume": null
+   }
+  ],
+  "as_of": "2021-09-09T20:07:28Z",
+  "created_at": "2021-08-27T13:47:35Z",
+  "locations": [
+   {
+    "name": "Oslo",
+    "woeid": 862592
+   }
+  ]
+ }
+]

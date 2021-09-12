@@ -1,0 +1,364 @@
+[
+ {
+  "trends": [
+   {
+    "name": "Akara",
+    "url": "http://twitter.com/search?q=Akara",
+    "promoted_content": null,
+    "query": "Akara",
+    "tweet_volume": 21372
+   },
+   {
+    "name": "#AskTems",
+    "url": "http://twitter.com/search?q=%23AskTems",
+    "promoted_content": null,
+    "query": "%23AskTems",
+    "tweet_volume": 16225
+   },
+   {
+    "name": "Wike",
+    "url": "http://twitter.com/search?q=Wike",
+    "promoted_content": null,
+    "query": "Wike",
+    "tweet_volume": 46444
+   },
+   {
+    "name": "#NaWhoStandByMe",
+    "url": "http://twitter.com/search?q=%23NaWhoStandByMe",
+    "promoted_content": null,
+    "query": "%23NaWhoStandByMe",
+    "tweet_volume": null
+   },
+   {
+    "name": "Annie",
+    "url": "http://twitter.com/search?q=Annie",
+    "promoted_content": null,
+    "query": "Annie",
+    "tweet_volume": 34052
+   },
+   {
+    "name": "#SugarByAb1",
+    "url": "http://twitter.com/search?q=%23SugarByAb1",
+    "promoted_content": null,
+    "query": "%23SugarByAb1",
+    "tweet_volume": null
+   },
+   {
+    "name": "#EnjoyBetterLife",
+    "url": "http://twitter.com/search?q=%23EnjoyBetterLife",
+    "promoted_content": null,
+    "query": "%23EnjoyBetterLife",
+    "tweet_volume": null
+   },
+   {
+    "name": "#ZanzibarOutNow",
+    "url": "http://twitter.com/search?q=%23ZanzibarOutNow",
+    "promoted_content": null,
+    "query": "%23ZanzibarOutNow",
+    "tweet_volume": null
+   },
+   {
+    "name": "President Buhari",
+    "url": "http://twitter.com/search?q=%22President+Buhari%22",
+    "promoted_content": null,
+    "query": "%22President+Buhari%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Ronaldo",
+    "url": "http://twitter.com/search?q=Ronaldo",
+    "promoted_content": null,
+    "query": "Ronaldo",
+    "tweet_volume": 159174
+   },
+   {
+    "name": "Fela",
+    "url": "http://twitter.com/search?q=Fela",
+    "promoted_content": null,
+    "query": "Fela",
+    "tweet_volume": null
+   },
+   {
+    "name": "FIRS",
+    "url": "http://twitter.com/search?q=FIRS",
+    "promoted_content": null,
+    "query": "FIRS",
+    "tweet_volume": 15886
+   },
+   {
+    "name": "IPOB",
+    "url": "http://twitter.com/search?q=IPOB",
+    "promoted_content": null,
+    "query": "IPOB",
+    "tweet_volume": 30276
+   },
+   {
+    "name": "Imo State",
+    "url": "http://twitter.com/search?q=%22Imo+State%22",
+    "promoted_content": null,
+    "query": "%22Imo+State%22",
+    "tweet_volume": 32276
+   },
+   {
+    "name": "Brymo",
+    "url": "http://twitter.com/search?q=Brymo",
+    "promoted_content": null,
+    "query": "Brymo",
+    "tweet_volume": null
+   },
+   {
+    "name": "Owerri",
+    "url": "http://twitter.com/search?q=Owerri",
+    "promoted_content": null,
+    "query": "Owerri",
+    "tweet_volume": null
+   },
+   {
+    "name": "Pele",
+    "url": "http://twitter.com/search?q=Pele",
+    "promoted_content": null,
+    "query": "Pele",
+    "tweet_volume": 19339
+   },
+   {
+    "name": "Giroud",
+    "url": "http://twitter.com/search?q=Giroud",
+    "promoted_content": null,
+    "query": "Giroud",
+    "tweet_volume": null
+   },
+   {
+    "name": "North",
+    "url": "http://twitter.com/search?q=North",
+    "promoted_content": null,
+    "query": "North",
+    "tweet_volume": 164053
+   },
+   {
+    "name": "FAAC",
+    "url": "http://twitter.com/search?q=FAAC",
+    "promoted_content": null,
+    "query": "FAAC",
+    "tweet_volume": null
+   },
+   {
+    "name": "benue",
+    "url": "http://twitter.com/search?q=benue",
+    "promoted_content": null,
+    "query": "benue",
+    "tweet_volume": null
+   },
+   {
+    "name": "Christians",
+    "url": "http://twitter.com/search?q=Christians",
+    "promoted_content": null,
+    "query": "Christians",
+    "tweet_volume": 22722
+   },
+   {
+    "name": "Kano",
+    "url": "http://twitter.com/search?q=Kano",
+    "promoted_content": null,
+    "query": "Kano",
+    "tweet_volume": 34019
+   },
+   {
+    "name": "Gombe",
+    "url": "http://twitter.com/search?q=Gombe",
+    "promoted_content": null,
+    "query": "Gombe",
+    "tweet_volume": null
+   },
+   {
+    "name": "Werner",
+    "url": "http://twitter.com/search?q=Werner",
+    "promoted_content": null,
+    "query": "Werner",
+    "tweet_volume": 25189
+   },
+   {
+    "name": "Lewandowski",
+    "url": "http://twitter.com/search?q=Lewandowski",
+    "promoted_content": null,
+    "query": "Lewandowski",
+    "tweet_volume": 25761
+   },
+   {
+    "name": "2face",
+    "url": "http://twitter.com/search?q=2face",
+    "promoted_content": null,
+    "query": "2face",
+    "tweet_volume": null
+   },
+   {
+    "name": "Lagos",
+    "url": "http://twitter.com/search?q=Lagos",
+    "promoted_content": null,
+    "query": "Lagos",
+    "tweet_volume": 52006
+   },
+   {
+    "name": "Jay Paul",
+    "url": "http://twitter.com/search?q=%22Jay+Paul%22",
+    "promoted_content": null,
+    "query": "%22Jay+Paul%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Mazi",
+    "url": "http://twitter.com/search?q=Mazi",
+    "promoted_content": null,
+    "query": "Mazi",
+    "tweet_volume": 11444
+   },
+   {
+    "name": "South East",
+    "url": "http://twitter.com/search?q=%22South+East%22",
+    "promoted_content": null,
+    "query": "%22South+East%22",
+    "tweet_volume": 11074
+   },
+   {
+    "name": "Nedu",
+    "url": "http://twitter.com/search?q=Nedu",
+    "promoted_content": null,
+    "query": "Nedu",
+    "tweet_volume": null
+   },
+   {
+    "name": "Haaland",
+    "url": "http://twitter.com/search?q=Haaland",
+    "promoted_content": null,
+    "query": "Haaland",
+    "tweet_volume": 14623
+   },
+   {
+    "name": "Whitemoney and Queen",
+    "url": "http://twitter.com/search?q=%22Whitemoney+and+Queen%22",
+    "promoted_content": null,
+    "query": "%22Whitemoney+and+Queen%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Fergie",
+    "url": "http://twitter.com/search?q=Fergie",
+    "promoted_content": null,
+    "query": "Fergie",
+    "tweet_volume": null
+   },
+   {
+    "name": "Canada",
+    "url": "http://twitter.com/search?q=Canada",
+    "promoted_content": null,
+    "query": "Canada",
+    "tweet_volume": 234478
+   },
+   {
+    "name": "Poland",
+    "url": "http://twitter.com/search?q=Poland",
+    "promoted_content": null,
+    "query": "Poland",
+    "tweet_volume": 26110
+   },
+   {
+    "name": "Maguire",
+    "url": "http://twitter.com/search?q=Maguire",
+    "promoted_content": null,
+    "query": "Maguire",
+    "tweet_volume": 11517
+   },
+   {
+    "name": "England",
+    "url": "http://twitter.com/search?q=England",
+    "promoted_content": null,
+    "query": "England",
+    "tweet_volume": 117728
+   },
+   {
+    "name": "German",
+    "url": "http://twitter.com/search?q=German",
+    "promoted_content": null,
+    "query": "German",
+    "tweet_volume": 54113
+   },
+   {
+    "name": "Rivers",
+    "url": "http://twitter.com/search?q=Rivers",
+    "promoted_content": null,
+    "query": "Rivers",
+    "tweet_volume": 37461
+   },
+   {
+    "name": "Tuchel",
+    "url": "http://twitter.com/search?q=Tuchel",
+    "promoted_content": null,
+    "query": "Tuchel",
+    "tweet_volume": null
+   },
+   {
+    "name": "Emma",
+    "url": "http://twitter.com/search?q=Emma",
+    "promoted_content": null,
+    "query": "Emma",
+    "tweet_volume": 71868
+   },
+   {
+    "name": "Arteta",
+    "url": "http://twitter.com/search?q=Arteta",
+    "promoted_content": null,
+    "query": "Arteta",
+    "tweet_volume": 10414
+   },
+   {
+    "name": "Arsenal",
+    "url": "http://twitter.com/search?q=Arsenal",
+    "promoted_content": null,
+    "query": "Arsenal",
+    "tweet_volume": 59323
+   },
+   {
+    "name": "Osun",
+    "url": "http://twitter.com/search?q=Osun",
+    "promoted_content": null,
+    "query": "Osun",
+    "tweet_volume": null
+   },
+   {
+    "name": "Femi",
+    "url": "http://twitter.com/search?q=Femi",
+    "promoted_content": null,
+    "query": "Femi",
+    "tweet_volume": null
+   },
+   {
+    "name": "Bubu",
+    "url": "http://twitter.com/search?q=Bubu",
+    "promoted_content": null,
+    "query": "Bubu",
+    "tweet_volume": 12881
+   },
+   {
+    "name": "Ekiti",
+    "url": "http://twitter.com/search?q=Ekiti",
+    "promoted_content": null,
+    "query": "Ekiti",
+    "tweet_volume": null
+   },
+   {
+    "name": "Harry Kane",
+    "url": "http://twitter.com/search?q=%22Harry+Kane%22",
+    "promoted_content": null,
+    "query": "%22Harry+Kane%22",
+    "tweet_volume": null
+   }
+  ],
+  "as_of": "2021-09-09T20:07:55Z",
+  "created_at": "2021-09-01T16:47:00Z",
+  "locations": [
+   {
+    "name": "Nigeria",
+    "woeid": 23424908
+   }
+  ]
+ }
+]

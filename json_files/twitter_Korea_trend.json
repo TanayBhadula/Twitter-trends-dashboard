@@ -1,0 +1,364 @@
+[
+ {
+  "trends": [
+   {
+    "name": "팅글인터뷰",
+    "url": "http://twitter.com/search?q=%ED%8C%85%EA%B8%80%EC%9D%B8%ED%84%B0%EB%B7%B0",
+    "promoted_content": null,
+    "query": "%ED%8C%85%EA%B8%80%EC%9D%B8%ED%84%B0%EB%B7%B0",
+    "tweet_volume": 17334
+   },
+   {
+    "name": "레모네이드",
+    "url": "http://twitter.com/search?q=%EB%A0%88%EB%AA%A8%EB%84%A4%EC%9D%B4%EB%93%9C",
+    "promoted_content": null,
+    "query": "%EB%A0%88%EB%AA%A8%EB%84%A4%EC%9D%B4%EB%93%9C",
+    "tweet_volume": 22730
+   },
+   {
+    "name": "시신 위치",
+    "url": "http://twitter.com/search?q=%22%EC%8B%9C%EC%8B%A0+%EC%9C%84%EC%B9%98%22",
+    "promoted_content": null,
+    "query": "%22%EC%8B%9C%EC%8B%A0+%EC%9C%84%EC%B9%98%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "#shindanmaker",
+    "url": "http://twitter.com/search?q=%23shindanmaker",
+    "promoted_content": null,
+    "query": "%23shindanmaker",
+    "tweet_volume": 53686
+   },
+   {
+    "name": "생존 시간",
+    "url": "http://twitter.com/search?q=%22%EC%83%9D%EC%A1%B4+%EC%8B%9C%EA%B0%84%22",
+    "promoted_content": null,
+    "query": "%22%EC%83%9D%EC%A1%B4+%EC%8B%9C%EA%B0%84%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "좀비사태 시작시기",
+    "url": "http://twitter.com/search?q=%22%EC%A2%80%EB%B9%84%EC%82%AC%ED%83%9C+%EC%8B%9C%EC%9E%91%EC%8B%9C%EA%B8%B0%22",
+    "promoted_content": null,
+    "query": "%22%EC%A2%80%EB%B9%84%EC%82%AC%ED%83%9C+%EC%8B%9C%EC%9E%91%EC%8B%9C%EA%B8%B0%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "사망 원인",
+    "url": "http://twitter.com/search?q=%22%EC%82%AC%EB%A7%9D+%EC%9B%90%EC%9D%B8%22",
+    "promoted_content": null,
+    "query": "%22%EC%82%AC%EB%A7%9D+%EC%9B%90%EC%9D%B8%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "SSR 캐릭터",
+    "url": "http://twitter.com/search?q=%22SSR+%EC%BA%90%EB%A6%AD%ED%84%B0%22",
+    "promoted_content": null,
+    "query": "%22SSR+%EC%BA%90%EB%A6%AD%ED%84%B0%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "성능 평가",
+    "url": "http://twitter.com/search?q=%22%EC%84%B1%EB%8A%A5+%ED%8F%89%EA%B0%80%22",
+    "promoted_content": null,
+    "query": "%22%EC%84%B1%EB%8A%A5+%ED%8F%89%EA%B0%80%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "보유 칭호",
+    "url": "http://twitter.com/search?q=%22%EB%B3%B4%EC%9C%A0+%EC%B9%AD%ED%98%B8%22",
+    "promoted_content": null,
+    "query": "%22%EB%B3%B4%EC%9C%A0+%EC%B9%AD%ED%98%B8%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "#지켜줘요이낙연_지켜줄께이낙연",
+    "url": "http://twitter.com/search?q=%23%EC%A7%80%EC%BC%9C%EC%A4%98%EC%9A%94%EC%9D%B4%EB%82%99%EC%97%B0_%EC%A7%80%EC%BC%9C%EC%A4%84%EA%BB%98%EC%9D%B4%EB%82%99%EC%97%B0",
+    "promoted_content": null,
+    "query": "%23%EC%A7%80%EC%BC%9C%EC%A4%98%EC%9A%94%EC%9D%B4%EB%82%99%EC%97%B0_%EC%A7%80%EC%BC%9C%EC%A4%84%EA%BB%98%EC%9D%B4%EB%82%99%EC%97%B0",
+    "tweet_volume": 17995
+   },
+   {
+    "name": "등장 대사",
+    "url": "http://twitter.com/search?q=%22%EB%93%B1%EC%9E%A5+%EB%8C%80%EC%82%AC%22",
+    "promoted_content": null,
+    "query": "%22%EB%93%B1%EC%9E%A5+%EB%8C%80%EC%82%AC%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "#당가등",
+    "url": "http://twitter.com/search?q=%23%EB%8B%B9%EA%B0%80%EB%93%B1",
+    "promoted_content": null,
+    "query": "%23%EB%8B%B9%EA%B0%80%EB%93%B1",
+    "tweet_volume": null
+   },
+   {
+    "name": "#Thunderous6thWin",
+    "url": "http://twitter.com/search?q=%23Thunderous6thWin",
+    "promoted_content": null,
+    "query": "%23Thunderous6thWin",
+    "tweet_volume": 221706
+   },
+   {
+    "name": "#스키즈_소리꾼_6관왕",
+    "url": "http://twitter.com/search?q=%23%EC%8A%A4%ED%82%A4%EC%A6%88_%EC%86%8C%EB%A6%AC%EA%BE%BC_6%EA%B4%80%EC%99%95",
+    "promoted_content": null,
+    "query": "%23%EC%8A%A4%ED%82%A4%EC%A6%88_%EC%86%8C%EB%A6%AC%EA%BE%BC_6%EA%B4%80%EC%99%95",
+    "tweet_volume": 128103
+   },
+   {
+    "name": "뮤지컬 배우",
+    "url": "http://twitter.com/search?q=%22%EB%AE%A4%EC%A7%80%EC%BB%AC+%EB%B0%B0%EC%9A%B0%22",
+    "promoted_content": null,
+    "query": "%22%EB%AE%A4%EC%A7%80%EC%BB%AC+%EB%B0%B0%EC%9A%B0%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "매트릭스",
+    "url": "http://twitter.com/search?q=%EB%A7%A4%ED%8A%B8%EB%A6%AD%EC%8A%A4",
+    "promoted_content": null,
+    "query": "%EB%A7%A4%ED%8A%B8%EB%A6%AD%EC%8A%A4",
+    "tweet_volume": null
+   },
+   {
+    "name": "의원직 사퇴",
+    "url": "http://twitter.com/search?q=%22%EC%9D%98%EC%9B%90%EC%A7%81+%EC%82%AC%ED%87%B4%22",
+    "promoted_content": null,
+    "query": "%22%EC%9D%98%EC%9B%90%EC%A7%81+%EC%82%AC%ED%87%B4%22",
+    "tweet_volume": 28042
+   },
+   {
+    "name": "어기영차",
+    "url": "http://twitter.com/search?q=%EC%96%B4%EA%B8%B0%EC%98%81%EC%B0%A8",
+    "promoted_content": null,
+    "query": "%EC%96%B4%EA%B8%B0%EC%98%81%EC%B0%A8",
+    "tweet_volume": 26889
+   },
+   {
+    "name": "석형민하",
+    "url": "http://twitter.com/search?q=%EC%84%9D%ED%98%95%EB%AF%BC%ED%95%98",
+    "promoted_content": null,
+    "query": "%EC%84%9D%ED%98%95%EB%AF%BC%ED%95%98",
+    "tweet_volume": null
+   },
+   {
+    "name": "내사랑들",
+    "url": "http://twitter.com/search?q=%EB%82%B4%EC%82%AC%EB%9E%91%EB%93%A4",
+    "promoted_content": null,
+    "query": "%EB%82%B4%EC%82%AC%EB%9E%91%EB%93%A4",
+    "tweet_volume": 78038
+   },
+   {
+    "name": "익준송화",
+    "url": "http://twitter.com/search?q=%EC%9D%B5%EC%A4%80%EC%86%A1%ED%99%94",
+    "promoted_content": null,
+    "query": "%EC%9D%B5%EC%A4%80%EC%86%A1%ED%99%94",
+    "tweet_volume": null
+   },
+   {
+    "name": "적폐 해석",
+    "url": "http://twitter.com/search?q=%22%EC%A0%81%ED%8F%90+%ED%95%B4%EC%84%9D%22",
+    "promoted_content": null,
+    "query": "%22%EC%A0%81%ED%8F%90+%ED%95%B4%EC%84%9D%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "토닥리즘",
+    "url": "http://twitter.com/search?q=%ED%86%A0%EB%8B%A5%EB%A6%AC%EC%A6%98",
+    "promoted_content": null,
+    "query": "%ED%86%A0%EB%8B%A5%EB%A6%AC%EC%A6%98",
+    "tweet_volume": null
+   },
+   {
+    "name": "원서 접수",
+    "url": "http://twitter.com/search?q=%22%EC%9B%90%EC%84%9C+%EC%A0%91%EC%88%98%22",
+    "promoted_content": null,
+    "query": "%22%EC%9B%90%EC%84%9C+%EC%A0%91%EC%88%98%22",
+    "tweet_volume": 10785
+   },
+   {
+    "name": "팬들의 반응",
+    "url": "http://twitter.com/search?q=%22%ED%8C%AC%EB%93%A4%EC%9D%98+%EB%B0%98%EC%9D%91%22",
+    "promoted_content": null,
+    "query": "%22%ED%8C%AC%EB%93%A4%EC%9D%98+%EB%B0%98%EC%9D%91%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "만렙 기준",
+    "url": "http://twitter.com/search?q=%22%EB%A7%8C%EB%A0%99+%EA%B8%B0%EC%A4%80%22",
+    "promoted_content": null,
+    "query": "%22%EB%A7%8C%EB%A0%99+%EA%B8%B0%EC%A4%80%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "구구데이",
+    "url": "http://twitter.com/search?q=%EA%B5%AC%EA%B5%AC%EB%8D%B0%EC%9D%B4",
+    "promoted_content": null,
+    "query": "%EA%B5%AC%EA%B5%AC%EB%8D%B0%EC%9D%B4",
+    "tweet_volume": null
+   },
+   {
+    "name": "내뱉을 첫마디",
+    "url": "http://twitter.com/search?q=%22%EB%82%B4%EB%B1%89%EC%9D%84+%EC%B2%AB%EB%A7%88%EB%94%94%22",
+    "promoted_content": null,
+    "query": "%22%EB%82%B4%EB%B1%89%EC%9D%84+%EC%B2%AB%EB%A7%88%EB%94%94%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "베이비슈",
+    "url": "http://twitter.com/search?q=%EB%B2%A0%EC%9D%B4%EB%B9%84%EC%8A%88",
+    "promoted_content": null,
+    "query": "%EB%B2%A0%EC%9D%B4%EB%B9%84%EC%8A%88",
+    "tweet_volume": null
+   },
+   {
+    "name": "탐드구몬",
+    "url": "http://twitter.com/search?q=%ED%83%90%EB%93%9C%EA%B5%AC%EB%AA%AC",
+    "promoted_content": null,
+    "query": "%ED%83%90%EB%93%9C%EA%B5%AC%EB%AA%AC",
+    "tweet_volume": null
+   },
+   {
+    "name": "커미션 파업",
+    "url": "http://twitter.com/search?q=%22%EC%BB%A4%EB%AF%B8%EC%85%98+%ED%8C%8C%EC%97%85%22",
+    "promoted_content": null,
+    "query": "%22%EC%BB%A4%EB%AF%B8%EC%85%98+%ED%8C%8C%EC%97%85%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "어떤표정",
+    "url": "http://twitter.com/search?q=%EC%96%B4%EB%96%A4%ED%91%9C%EC%A0%95",
+    "promoted_content": null,
+    "query": "%EC%96%B4%EB%96%A4%ED%91%9C%EC%A0%95",
+    "tweet_volume": null
+   },
+   {
+    "name": "머치박스",
+    "url": "http://twitter.com/search?q=%EB%A8%B8%EC%B9%98%EB%B0%95%EC%8A%A4",
+    "promoted_content": null,
+    "query": "%EB%A8%B8%EC%B9%98%EB%B0%95%EC%8A%A4",
+    "tweet_volume": null
+   },
+   {
+    "name": "드림주들 생일",
+    "url": "http://twitter.com/search?q=%22%EB%93%9C%EB%A6%BC%EC%A3%BC%EB%93%A4+%EC%83%9D%EC%9D%BC%22",
+    "promoted_content": null,
+    "query": "%22%EB%93%9C%EB%A6%BC%EC%A3%BC%EB%93%A4+%EC%83%9D%EC%9D%BC%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "주가조작",
+    "url": "http://twitter.com/search?q=%EC%A3%BC%EA%B0%80%EC%A1%B0%EC%9E%91",
+    "promoted_content": null,
+    "query": "%EC%A3%BC%EA%B0%80%EC%A1%B0%EC%9E%91",
+    "tweet_volume": null
+   },
+   {
+    "name": "펜리르 부흥",
+    "url": "http://twitter.com/search?q=%22%ED%8E%9C%EB%A6%AC%EB%A5%B4+%EB%B6%80%ED%9D%A5%22",
+    "promoted_content": null,
+    "query": "%22%ED%8E%9C%EB%A6%AC%EB%A5%B4+%EB%B6%80%ED%9D%A5%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "오영환 의원님",
+    "url": "http://twitter.com/search?q=%22%EC%98%A4%EC%98%81%ED%99%98+%EC%9D%98%EC%9B%90%EB%8B%98%22",
+    "promoted_content": null,
+    "query": "%22%EC%98%A4%EC%98%81%ED%99%98+%EC%9D%98%EC%9B%90%EB%8B%98%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "해시테그",
+    "url": "http://twitter.com/search?q=%ED%95%B4%EC%8B%9C%ED%85%8C%EA%B7%B8",
+    "promoted_content": null,
+    "query": "%ED%95%B4%EC%8B%9C%ED%85%8C%EA%B7%B8",
+    "tweet_volume": null
+   },
+   {
+    "name": "우정리노트",
+    "url": "http://twitter.com/search?q=%EC%9A%B0%EC%A0%95%EB%A6%AC%EB%85%B8%ED%8A%B8",
+    "promoted_content": null,
+    "query": "%EC%9A%B0%EC%A0%95%EB%A6%AC%EB%85%B8%ED%8A%B8",
+    "tweet_volume": null
+   },
+   {
+    "name": "키워드 보고",
+    "url": "http://twitter.com/search?q=%22%ED%82%A4%EC%9B%8C%EB%93%9C+%EB%B3%B4%EA%B3%A0%22",
+    "promoted_content": null,
+    "query": "%22%ED%82%A4%EC%9B%8C%EB%93%9C+%EB%B3%B4%EA%B3%A0%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "리저렉션",
+    "url": "http://twitter.com/search?q=%EB%A6%AC%EC%A0%80%EB%A0%89%EC%85%98",
+    "promoted_content": null,
+    "query": "%EB%A6%AC%EC%A0%80%EB%A0%89%EC%85%98",
+    "tweet_volume": null
+   },
+   {
+    "name": "이츠키슈",
+    "url": "http://twitter.com/search?q=%EC%9D%B4%EC%B8%A0%ED%82%A4%EC%8A%88",
+    "promoted_content": null,
+    "query": "%EC%9D%B4%EC%B8%A0%ED%82%A4%EC%8A%88",
+    "tweet_volume": null
+   },
+   {
+    "name": "유니버스 예능",
+    "url": "http://twitter.com/search?q=%22%EC%9C%A0%EB%8B%88%EB%B2%84%EC%8A%A4+%EC%98%88%EB%8A%A5%22",
+    "promoted_content": null,
+    "query": "%22%EC%9C%A0%EB%8B%88%EB%B2%84%EC%8A%A4+%EC%98%88%EB%8A%A5%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "워노우정",
+    "url": "http://twitter.com/search?q=%EC%9B%8C%EB%85%B8%EC%9A%B0%EC%A0%95",
+    "promoted_content": null,
+    "query": "%EC%9B%8C%EB%85%B8%EC%9A%B0%EC%A0%95",
+    "tweet_volume": null
+   },
+   {
+    "name": "메이저 언론",
+    "url": "http://twitter.com/search?q=%22%EB%A9%94%EC%9D%B4%EC%A0%80+%EC%96%B8%EB%A1%A0%22",
+    "promoted_content": null,
+    "query": "%22%EB%A9%94%EC%9D%B4%EC%A0%80+%EC%96%B8%EB%A1%A0%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "윤석열 장모",
+    "url": "http://twitter.com/search?q=%22%EC%9C%A4%EC%84%9D%EC%97%B4+%EC%9E%A5%EB%AA%A8%22",
+    "promoted_content": null,
+    "query": "%22%EC%9C%A4%EC%84%9D%EC%97%B4+%EC%9E%A5%EB%AA%A8%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "주자 출격",
+    "url": "http://twitter.com/search?q=%22%EC%A3%BC%EC%9E%90+%EC%B6%9C%EA%B2%A9%22",
+    "promoted_content": null,
+    "query": "%22%EC%A3%BC%EC%9E%90+%EC%B6%9C%EA%B2%A9%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "케이크 만들기",
+    "url": "http://twitter.com/search?q=%22%EC%BC%80%EC%9D%B4%ED%81%AC+%EB%A7%8C%EB%93%A4%EA%B8%B0%22",
+    "promoted_content": null,
+    "query": "%22%EC%BC%80%EC%9D%B4%ED%81%AC+%EB%A7%8C%EB%93%A4%EA%B8%B0%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "아오츠키",
+    "url": "http://twitter.com/search?q=%EC%95%84%EC%98%A4%EC%B8%A0%ED%82%A4",
+    "promoted_content": null,
+    "query": "%EC%95%84%EC%98%A4%EC%B8%A0%ED%82%A4",
+    "tweet_volume": null
+   }
+  ],
+  "as_of": "2021-09-09T20:07:43Z",
+  "created_at": "2021-09-07T21:23:45Z",
+  "locations": [
+   {
+    "name": "Korea",
+    "woeid": 23424868
+   }
+  ]
+ }
+]

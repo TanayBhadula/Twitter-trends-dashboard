@@ -1,0 +1,364 @@
+[
+ {
+  "trends": [
+   {
+    "name": "#Sep9Coup",
+    "url": "http://twitter.com/search?q=%23Sep9Coup",
+    "promoted_content": null,
+    "query": "%23Sep9Coup",
+    "tweet_volume": 312357
+   },
+   {
+    "name": "#DefensiveWarForDemocracy",
+    "url": "http://twitter.com/search?q=%23DefensiveWarForDemocracy",
+    "promoted_content": null,
+    "query": "%23DefensiveWarForDemocracy",
+    "tweet_volume": 248225
+   },
+   {
+    "name": "#HospitalPlaylistS2Ep11",
+    "url": "http://twitter.com/search?q=%23HospitalPlaylistS2Ep11",
+    "promoted_content": null,
+    "query": "%23HospitalPlaylistS2Ep11",
+    "tweet_volume": 71640
+   },
+   {
+    "name": "#Thunderous6thWin",
+    "url": "http://twitter.com/search?q=%23Thunderous6thWin",
+    "promoted_content": null,
+    "query": "%23Thunderous6thWin",
+    "tweet_volume": 221706
+   },
+   {
+    "name": "BTOB",
+    "url": "http://twitter.com/search?q=BTOB",
+    "promoted_content": null,
+    "query": "BTOB",
+    "tweet_volume": 180008
+   },
+   {
+    "name": "#3JIsBack",
+    "url": "http://twitter.com/search?q=%233JIsBack",
+    "promoted_content": null,
+    "query": "%233JIsBack",
+    "tweet_volume": 330809
+   },
+   {
+    "name": "jaehyun",
+    "url": "http://twitter.com/search?q=jaehyun",
+    "promoted_content": null,
+    "query": "jaehyun",
+    "tweet_volume": 304863
+   },
+   {
+    "name": "loonyoxlazada sa lol",
+    "url": "http://twitter.com/search?q=%22loonyoxlazada+sa+lol%22",
+    "promoted_content": null,
+    "query": "%22loonyoxlazada+sa+lol%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "John Wick",
+    "url": "http://twitter.com/search?q=%22John+Wick%22",
+    "promoted_content": null,
+    "query": "%22John+Wick%22",
+    "tweet_volume": 33846
+   },
+   {
+    "name": "mcountdown",
+    "url": "http://twitter.com/search?q=mcountdown",
+    "promoted_content": null,
+    "query": "mcountdown",
+    "tweet_volume": 168909
+   },
+   {
+    "name": "Jessi",
+    "url": "http://twitter.com/search?q=Jessi",
+    "promoted_content": null,
+    "query": "Jessi",
+    "tweet_volume": 28901
+   },
+   {
+    "name": "LeeHi",
+    "url": "http://twitter.com/search?q=LeeHi",
+    "promoted_content": null,
+    "query": "LeeHi",
+    "tweet_volume": 34885
+   },
+   {
+    "name": "Dawei District",
+    "url": "http://twitter.com/search?q=%22Dawei+District%22",
+    "promoted_content": null,
+    "query": "%22Dawei+District%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "CHOA",
+    "url": "http://twitter.com/search?q=CHOA",
+    "promoted_content": null,
+    "query": "CHOA",
+    "tweet_volume": null
+   },
+   {
+    "name": "Mnet",
+    "url": "http://twitter.com/search?q=Mnet",
+    "promoted_content": null,
+    "query": "Mnet",
+    "tweet_volume": 144795
+   },
+   {
+    "name": "seungcheol",
+    "url": "http://twitter.com/search?q=seungcheol",
+    "promoted_content": null,
+    "query": "seungcheol",
+    "tweet_volume": 17121
+   },
+   {
+    "name": "Kihyun",
+    "url": "http://twitter.com/search?q=Kihyun",
+    "promoted_content": null,
+    "query": "Kihyun",
+    "tweet_volume": 24023
+   },
+   {
+    "name": "hobi",
+    "url": "http://twitter.com/search?q=hobi",
+    "promoted_content": null,
+    "query": "hobi",
+    "tweet_volume": 247692
+   },
+   {
+    "name": "Hakha",
+    "url": "http://twitter.com/search?q=Hakha",
+    "promoted_content": null,
+    "query": "Hakha",
+    "tweet_volume": null
+   },
+   {
+    "name": "hyuna",
+    "url": "http://twitter.com/search?q=hyuna",
+    "promoted_content": null,
+    "query": "hyuna",
+    "tweet_volume": 45436
+   },
+   {
+    "name": "jeongmin",
+    "url": "http://twitter.com/search?q=jeongmin",
+    "promoted_content": null,
+    "query": "jeongmin",
+    "tweet_volume": null
+   },
+   {
+    "name": "haechan",
+    "url": "http://twitter.com/search?q=haechan",
+    "promoted_content": null,
+    "query": "haechan",
+    "tweet_volume": 175433
+   },
+   {
+    "name": "tzuyu",
+    "url": "http://twitter.com/search?q=tzuyu",
+    "promoted_content": null,
+    "query": "tzuyu",
+    "tweet_volume": 36662
+   },
+   {
+    "name": "Blue's Clues",
+    "url": "http://twitter.com/search?q=%22Blue%27s+Clues%22",
+    "promoted_content": null,
+    "query": "%22Blue%27s+Clues%22",
+    "tweet_volume": 76737
+   },
+   {
+    "name": "minho",
+    "url": "http://twitter.com/search?q=minho",
+    "promoted_content": null,
+    "query": "minho",
+    "tweet_volume": 30719
+   },
+   {
+    "name": "Genocidal Military",
+    "url": "http://twitter.com/search?q=%22Genocidal+Military%22",
+    "promoted_content": null,
+    "query": "%22Genocidal+Military%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "jongin",
+    "url": "http://twitter.com/search?q=jongin",
+    "promoted_content": null,
+    "query": "jongin",
+    "tweet_volume": 38677
+   },
+   {
+    "name": "binnie",
+    "url": "http://twitter.com/search?q=binnie",
+    "promoted_content": null,
+    "query": "binnie",
+    "tweet_volume": 10961
+   },
+   {
+    "name": "D-Day",
+    "url": "http://twitter.com/search?q=D-Day",
+    "promoted_content": null,
+    "query": "D-Day",
+    "tweet_volume": 193001
+   },
+   {
+    "name": "Blair",
+    "url": "http://twitter.com/search?q=Blair",
+    "promoted_content": null,
+    "query": "Blair",
+    "tweet_volume": null
+   },
+   {
+    "name": "Simon",
+    "url": "http://twitter.com/search?q=Simon",
+    "promoted_content": null,
+    "query": "Simon",
+    "tweet_volume": 53557
+   },
+   {
+    "name": "El Salvador",
+    "url": "http://twitter.com/search?q=%22El+Salvador%22",
+    "promoted_content": null,
+    "query": "%22El+Salvador%22",
+    "tweet_volume": 64224
+   },
+   {
+    "name": "Jooheon",
+    "url": "http://twitter.com/search?q=Jooheon",
+    "promoted_content": null,
+    "query": "Jooheon",
+    "tweet_volume": 10210
+   },
+   {
+    "name": "The Wanted",
+    "url": "http://twitter.com/search?q=%22The+Wanted%22",
+    "promoted_content": null,
+    "query": "%22The+Wanted%22",
+    "tweet_volume": 179956
+   },
+   {
+    "name": "Kara",
+    "url": "http://twitter.com/search?q=Kara",
+    "promoted_content": null,
+    "query": "Kara",
+    "tweet_volume": 36121
+   },
+   {
+    "name": "Peniel",
+    "url": "http://twitter.com/search?q=Peniel",
+    "promoted_content": null,
+    "query": "Peniel",
+    "tweet_volume": null
+   },
+   {
+    "name": "FIFA",
+    "url": "http://twitter.com/search?q=FIFA",
+    "promoted_content": null,
+    "query": "FIFA",
+    "tweet_volume": 58391
+   },
+   {
+    "name": "Helpppp",
+    "url": "http://twitter.com/search?q=Helpppp",
+    "promoted_content": null,
+    "query": "Helpppp",
+    "tweet_volume": null
+   },
+   {
+    "name": "Kylie",
+    "url": "http://twitter.com/search?q=Kylie",
+    "promoted_content": null,
+    "query": "Kylie",
+    "tweet_volume": 78238
+   },
+   {
+    "name": "Matic",
+    "url": "http://twitter.com/search?q=Matic",
+    "promoted_content": null,
+    "query": "Matic",
+    "tweet_volume": 76451
+   },
+   {
+    "name": "Australians",
+    "url": "http://twitter.com/search?q=Australians",
+    "promoted_content": null,
+    "query": "Australians",
+    "tweet_volume": 16568
+   },
+   {
+    "name": "Minjun",
+    "url": "http://twitter.com/search?q=Minjun",
+    "promoted_content": null,
+    "query": "Minjun",
+    "tweet_volume": null
+   },
+   {
+    "name": "Scott",
+    "url": "http://twitter.com/search?q=Scott",
+    "promoted_content": null,
+    "query": "Scott",
+    "tweet_volume": 84968
+   },
+   {
+    "name": "South Korea",
+    "url": "http://twitter.com/search?q=%22South+Korea%22",
+    "promoted_content": null,
+    "query": "%22South+Korea%22",
+    "tweet_volume": 74123
+   },
+   {
+    "name": "winwin",
+    "url": "http://twitter.com/search?q=winwin",
+    "promoted_content": null,
+    "query": "winwin",
+    "tweet_volume": 44773
+   },
+   {
+    "name": "jennie",
+    "url": "http://twitter.com/search?q=jennie",
+    "promoted_content": null,
+    "query": "jennie",
+    "tweet_volume": 604299
+   },
+   {
+    "name": "Baekhyun",
+    "url": "http://twitter.com/search?q=Baekhyun",
+    "promoted_content": null,
+    "query": "Baekhyun",
+    "tweet_volume": 118363
+   },
+   {
+    "name": "Seoul",
+    "url": "http://twitter.com/search?q=Seoul",
+    "promoted_content": null,
+    "query": "Seoul",
+    "tweet_volume": 277976
+   },
+   {
+    "name": "Young K",
+    "url": "http://twitter.com/search?q=%22Young+K%22",
+    "promoted_content": null,
+    "query": "%22Young+K%22",
+    "tweet_volume": 53556
+   },
+   {
+    "name": "Loki",
+    "url": "http://twitter.com/search?q=Loki",
+    "promoted_content": null,
+    "query": "Loki",
+    "tweet_volume": 27711
+   }
+  ],
+  "as_of": "2021-09-09T20:07:37Z",
+  "created_at": "2021-09-03T08:53:37Z",
+  "locations": [
+   {
+    "name": "Singapore",
+    "woeid": 23424948
+   }
+  ]
+ }
+]

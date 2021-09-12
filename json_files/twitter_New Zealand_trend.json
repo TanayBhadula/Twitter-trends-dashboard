@@ -1,0 +1,364 @@
+[
+ {
+  "trends": [
+   {
+    "name": "Spain",
+    "url": "http://twitter.com/search?q=Spain",
+    "promoted_content": null,
+    "query": "Spain",
+    "tweet_volume": 42584
+   },
+   {
+    "name": "Lorde",
+    "url": "http://twitter.com/search?q=Lorde",
+    "promoted_content": null,
+    "query": "Lorde",
+    "tweet_volume": 22635
+   },
+   {
+    "name": "Matrix",
+    "url": "http://twitter.com/search?q=Matrix",
+    "promoted_content": null,
+    "query": "Matrix",
+    "tweet_volume": 273206
+   },
+   {
+    "name": "Glasgow",
+    "url": "http://twitter.com/search?q=Glasgow",
+    "promoted_content": null,
+    "query": "Glasgow",
+    "tweet_volume": 16112
+   },
+   {
+    "name": "James Shaw",
+    "url": "http://twitter.com/search?q=%22James+Shaw%22",
+    "promoted_content": null,
+    "query": "%22James+Shaw%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "#BANvNZ",
+    "url": "http://twitter.com/search?q=%23BANvNZ",
+    "promoted_content": null,
+    "query": "%23BANvNZ",
+    "tweet_volume": null
+   },
+   {
+    "name": "Mojo",
+    "url": "http://twitter.com/search?q=Mojo",
+    "promoted_content": null,
+    "query": "Mojo",
+    "tweet_volume": null
+   },
+   {
+    "name": "colin craig",
+    "url": "http://twitter.com/search?q=%22colin+craig%22",
+    "promoted_content": null,
+    "query": "%22colin+craig%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Solar Power",
+    "url": "http://twitter.com/search?q=%22Solar+Power%22",
+    "promoted_content": null,
+    "query": "%22Solar+Power%22",
+    "tweet_volume": 12028
+   },
+   {
+    "name": "#ShortlandStreet",
+    "url": "http://twitter.com/search?q=%23ShortlandStreet",
+    "promoted_content": null,
+    "query": "%23ShortlandStreet",
+    "tweet_volume": null
+   },
+   {
+    "name": "#NBA2K22",
+    "url": "http://twitter.com/search?q=%23NBA2K22",
+    "promoted_content": null,
+    "query": "%23NBA2K22",
+    "tweet_volume": 20233
+   },
+   {
+    "name": "#BTS_Butter",
+    "url": "http://twitter.com/search?q=%23BTS_Butter",
+    "promoted_content": null,
+    "query": "%23BTS_Butter",
+    "tweet_volume": 493775
+   },
+   {
+    "name": "Supreme Court",
+    "url": "http://twitter.com/search?q=%22Supreme+Court%22",
+    "promoted_content": null,
+    "query": "%22Supreme+Court%22",
+    "tweet_volume": 57656
+   },
+   {
+    "name": "Prefab",
+    "url": "http://twitter.com/search?q=Prefab",
+    "promoted_content": null,
+    "query": "Prefab",
+    "tweet_volume": null
+   },
+   {
+    "name": "#taskmasternz",
+    "url": "http://twitter.com/search?q=%23taskmasternz",
+    "promoted_content": null,
+    "query": "%23taskmasternz",
+    "tweet_volume": null
+   },
+   {
+    "name": "Blues Clues",
+    "url": "http://twitter.com/search?q=%22Blues+Clues%22",
+    "promoted_content": null,
+    "query": "%22Blues+Clues%22",
+    "tweet_volume": 124103
+   },
+   {
+    "name": "Fidel",
+    "url": "http://twitter.com/search?q=Fidel",
+    "promoted_content": null,
+    "query": "Fidel",
+    "tweet_volume": 14989
+   },
+   {
+    "name": "Te Ao Mārama",
+    "url": "http://twitter.com/search?q=%22Te+Ao+M%C4%81rama%22",
+    "promoted_content": null,
+    "query": "%22Te+Ao+M%C4%81rama%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Novavax",
+    "url": "http://twitter.com/search?q=Novavax",
+    "promoted_content": null,
+    "query": "Novavax",
+    "tweet_volume": null
+   },
+   {
+    "name": "Māori",
+    "url": "http://twitter.com/search?q=M%C4%81ori",
+    "promoted_content": null,
+    "query": "M%C4%81ori",
+    "tweet_volume": null
+   },
+   {
+    "name": "Zara",
+    "url": "http://twitter.com/search?q=Zara",
+    "promoted_content": null,
+    "query": "Zara",
+    "tweet_volume": 24290
+   },
+   {
+    "name": "auckland dhb",
+    "url": "http://twitter.com/search?q=%22auckland+dhb%22",
+    "promoted_content": null,
+    "query": "%22auckland+dhb%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Middlemore",
+    "url": "http://twitter.com/search?q=Middlemore",
+    "promoted_content": null,
+    "query": "Middlemore",
+    "tweet_volume": null
+   },
+   {
+    "name": "Scotland",
+    "url": "http://twitter.com/search?q=Scotland",
+    "promoted_content": null,
+    "query": "Scotland",
+    "tweet_volume": 68757
+   },
+   {
+    "name": "North Korea",
+    "url": "http://twitter.com/search?q=%22North+Korea%22",
+    "promoted_content": null,
+    "query": "%22North+Korea%22",
+    "tweet_volume": 10988
+   },
+   {
+    "name": "Jordan",
+    "url": "http://twitter.com/search?q=Jordan",
+    "promoted_content": null,
+    "query": "Jordan",
+    "tweet_volume": 102826
+   },
+   {
+    "name": "Level 2",
+    "url": "http://twitter.com/search?q=%22Level+2%22",
+    "promoted_content": null,
+    "query": "%22Level+2%22",
+    "tweet_volume": 15758
+   },
+   {
+    "name": "Dr Wiles",
+    "url": "http://twitter.com/search?q=%22Dr+Wiles%22",
+    "promoted_content": null,
+    "query": "%22Dr+Wiles%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "spanish pfizer",
+    "url": "http://twitter.com/search?q=%22spanish+pfizer%22",
+    "promoted_content": null,
+    "query": "%22spanish+pfizer%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "mike hosking",
+    "url": "http://twitter.com/search?q=%22mike+hosking%22",
+    "promoted_content": null,
+    "query": "%22mike+hosking%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Gladys",
+    "url": "http://twitter.com/search?q=Gladys",
+    "promoted_content": null,
+    "query": "Gladys",
+    "tweet_volume": 24615
+   },
+   {
+    "name": "new plymouth",
+    "url": "http://twitter.com/search?q=%22new+plymouth%22",
+    "promoted_content": null,
+    "query": "%22new+plymouth%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Guardian",
+    "url": "http://twitter.com/search?q=Guardian",
+    "promoted_content": null,
+    "query": "Guardian",
+    "tweet_volume": 77664
+   },
+   {
+    "name": "Afghanistan",
+    "url": "http://twitter.com/search?q=Afghanistan",
+    "promoted_content": null,
+    "query": "Afghanistan",
+    "tweet_volume": 483513
+   },
+   {
+    "name": "New World",
+    "url": "http://twitter.com/search?q=%22New+World%22",
+    "promoted_content": null,
+    "query": "%22New+World%22",
+    "tweet_volume": 162120
+   },
+   {
+    "name": "Hugh",
+    "url": "http://twitter.com/search?q=Hugh",
+    "promoted_content": null,
+    "query": "Hugh",
+    "tweet_volume": null
+   },
+   {
+    "name": "Kenny",
+    "url": "http://twitter.com/search?q=Kenny",
+    "promoted_content": null,
+    "query": "Kenny",
+    "tweet_volume": 25381
+   },
+   {
+    "name": "Indigenous",
+    "url": "http://twitter.com/search?q=Indigenous",
+    "promoted_content": null,
+    "query": "Indigenous",
+    "tweet_volume": 40538
+   },
+   {
+    "name": "Tesla",
+    "url": "http://twitter.com/search?q=Tesla",
+    "promoted_content": null,
+    "query": "Tesla",
+    "tweet_volume": 55856
+   },
+   {
+    "name": "Chris Bishop",
+    "url": "http://twitter.com/search?q=%22Chris+Bishop%22",
+    "promoted_content": null,
+    "query": "%22Chris+Bishop%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Covid",
+    "url": "http://twitter.com/search?q=Covid",
+    "promoted_content": null,
+    "query": "Covid",
+    "tweet_volume": 1514398
+   },
+   {
+    "name": "Fauci",
+    "url": "http://twitter.com/search?q=Fauci",
+    "promoted_content": null,
+    "query": "Fauci",
+    "tweet_volume": 127502
+   },
+   {
+    "name": "New York",
+    "url": "http://twitter.com/search?q=%22New+York%22",
+    "promoted_content": null,
+    "query": "%22New+York%22",
+    "tweet_volume": 157290
+   },
+   {
+    "name": "Trans",
+    "url": "http://twitter.com/search?q=Trans",
+    "promoted_content": null,
+    "query": "Trans",
+    "tweet_volume": 178194
+   },
+   {
+    "name": "David Seymour",
+    "url": "http://twitter.com/search?q=%22David+Seymour%22",
+    "promoted_content": null,
+    "query": "%22David+Seymour%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "TERFs",
+    "url": "http://twitter.com/search?q=TERFs",
+    "promoted_content": null,
+    "query": "TERFs",
+    "tweet_volume": null
+   },
+   {
+    "name": "DDoS",
+    "url": "http://twitter.com/search?q=DDoS",
+    "promoted_content": null,
+    "query": "DDoS",
+    "tweet_volume": null
+   },
+   {
+    "name": "Foxy",
+    "url": "http://twitter.com/search?q=Foxy",
+    "promoted_content": null,
+    "query": "Foxy",
+    "tweet_volume": null
+   },
+   {
+    "name": "Kendrick",
+    "url": "http://twitter.com/search?q=Kendrick",
+    "promoted_content": null,
+    "query": "Kendrick",
+    "tweet_volume": 28886
+   },
+   {
+    "name": "John Mulaney",
+    "url": "http://twitter.com/search?q=%22John+Mulaney%22",
+    "promoted_content": null,
+    "query": "%22John+Mulaney%22",
+    "tweet_volume": 10133
+   }
+  ],
+  "as_of": "2021-09-09T20:08:18Z",
+  "created_at": "2021-08-19T12:08:28Z",
+  "locations": [
+   {
+    "name": "New Zealand",
+    "woeid": 23424916
+   }
+  ]
+ }
+]

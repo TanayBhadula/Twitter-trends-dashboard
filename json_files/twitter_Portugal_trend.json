@@ -1,0 +1,364 @@
+[
+ {
+  "trends": [
+   {
+    "name": "Matrix",
+    "url": "http://twitter.com/search?q=Matrix",
+    "promoted_content": null,
+    "query": "Matrix",
+    "tweet_volume": 273206
+   },
+   {
+    "name": "#PlayStationShowcase",
+    "url": "http://twitter.com/search?q=%23PlayStationShowcase",
+    "promoted_content": null,
+    "query": "%23PlayStationShowcase",
+    "tweet_volume": 22520
+   },
+   {
+    "name": "#LouisInPortugal",
+    "url": "http://twitter.com/search?q=%23LouisInPortugal",
+    "promoted_content": null,
+    "query": "%23LouisInPortugal",
+    "tweet_volume": null
+   },
+   {
+    "name": "Noronha Lopes",
+    "url": "http://twitter.com/search?q=%22Noronha+Lopes%22",
+    "promoted_content": null,
+    "query": "%22Noronha+Lopes%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "#bbtvi",
+    "url": "http://twitter.com/search?q=%23bbtvi",
+    "promoted_content": null,
+    "query": "%23bbtvi",
+    "tweet_volume": null
+   },
+   {
+    "name": "#SLBenficaFem",
+    "url": "http://twitter.com/search?q=%23SLBenficaFem",
+    "promoted_content": null,
+    "query": "%23SLBenficaFem",
+    "tweet_volume": null
+   },
+   {
+    "name": "Cancelo",
+    "url": "http://twitter.com/search?q=Cancelo",
+    "promoted_content": null,
+    "query": "Cancelo",
+    "tweet_volume": null
+   },
+   {
+    "name": "Kylie",
+    "url": "http://twitter.com/search?q=Kylie",
+    "promoted_content": null,
+    "query": "Kylie",
+    "tweet_volume": 78296
+   },
+   {
+    "name": "Cristina Ferreira",
+    "url": "http://twitter.com/search?q=%22Cristina+Ferreira%22",
+    "promoted_content": null,
+    "query": "%22Cristina+Ferreira%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Diniz",
+    "url": "http://twitter.com/search?q=Diniz",
+    "promoted_content": null,
+    "query": "Diniz",
+    "tweet_volume": 19632
+   },
+   {
+    "name": "Rui Costa",
+    "url": "http://twitter.com/search?q=%22Rui+Costa%22",
+    "promoted_content": null,
+    "query": "%22Rui+Costa%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "#UWCL",
+    "url": "http://twitter.com/search?q=%23UWCL",
+    "promoted_content": null,
+    "query": "%23UWCL",
+    "tweet_volume": null
+   },
+   {
+    "name": "Kika",
+    "url": "http://twitter.com/search?q=Kika",
+    "promoted_content": null,
+    "query": "Kika",
+    "tweet_volume": null
+   },
+   {
+    "name": "helena coelho",
+    "url": "http://twitter.com/search?q=%22helena+coelho%22",
+    "promoted_content": null,
+    "query": "%22helena+coelho%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "hyuna",
+    "url": "http://twitter.com/search?q=hyuna",
+    "promoted_content": null,
+    "query": "hyuna",
+    "tweet_volume": 45453
+   },
+   {
+    "name": "Seixal",
+    "url": "http://twitter.com/search?q=Seixal",
+    "promoted_content": null,
+    "query": "Seixal",
+    "tweet_volume": null
+   },
+   {
+    "name": "Cuidados",
+    "url": "http://twitter.com/search?q=Cuidados",
+    "promoted_content": null,
+    "query": "Cuidados",
+    "tweet_volume": null
+   },
+   {
+    "name": "Djokovic",
+    "url": "http://twitter.com/search?q=Djokovic",
+    "promoted_content": null,
+    "query": "Djokovic",
+    "tweet_volume": 29195
+   },
+   {
+    "name": "Moedas",
+    "url": "http://twitter.com/search?q=Moedas",
+    "promoted_content": null,
+    "query": "Moedas",
+    "tweet_volume": null
+   },
+   {
+    "name": "o medina",
+    "url": "http://twitter.com/search?q=%22o+medina%22",
+    "promoted_content": null,
+    "query": "%22o+medina%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Zé Trovão",
+    "url": "http://twitter.com/search?q=%22Z%C3%A9+Trov%C3%A3o%22",
+    "promoted_content": null,
+    "query": "%22Z%C3%A9+Trov%C3%A3o%22",
+    "tweet_volume": 114164
+   },
+   {
+    "name": "Barroso",
+    "url": "http://twitter.com/search?q=Barroso",
+    "promoted_content": null,
+    "query": "Barroso",
+    "tweet_volume": 55953
+   },
+   {
+    "name": "John Wick",
+    "url": "http://twitter.com/search?q=%22John+Wick%22",
+    "promoted_content": null,
+    "query": "%22John+Wick%22",
+    "tweet_volume": 33861
+   },
+   {
+    "name": "O SNS",
+    "url": "http://twitter.com/search?q=%22O+SNS%22",
+    "promoted_content": null,
+    "query": "%22O+SNS%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Icardi",
+    "url": "http://twitter.com/search?q=Icardi",
+    "promoted_content": null,
+    "query": "Icardi",
+    "tweet_volume": null
+   },
+   {
+    "name": "Santana Lopes",
+    "url": "http://twitter.com/search?q=%22Santana+Lopes%22",
+    "promoted_content": null,
+    "query": "%22Santana+Lopes%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Seferovic",
+    "url": "http://twitter.com/search?q=Seferovic",
+    "promoted_content": null,
+    "query": "Seferovic",
+    "tweet_volume": null
+   },
+   {
+    "name": "Cidadão",
+    "url": "http://twitter.com/search?q=Cidad%C3%A3o",
+    "promoted_content": null,
+    "query": "Cidad%C3%A3o",
+    "tweet_volume": 21239
+   },
+   {
+    "name": "VMAs",
+    "url": "http://twitter.com/search?q=VMAs",
+    "promoted_content": null,
+    "query": "VMAs",
+    "tweet_volume": 149872
+   },
+   {
+    "name": "Jennifer Lawrence",
+    "url": "http://twitter.com/search?q=%22Jennifer+Lawrence%22",
+    "promoted_content": null,
+    "query": "%22Jennifer+Lawrence%22",
+    "tweet_volume": 30148
+   },
+   {
+    "name": "antena 1",
+    "url": "http://twitter.com/search?q=%22antena+1%22",
+    "promoted_content": null,
+    "query": "%22antena+1%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "super dragões",
+    "url": "http://twitter.com/search?q=%22super+drag%C3%B5es%22",
+    "promoted_content": null,
+    "query": "%22super+drag%C3%B5es%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Zhou",
+    "url": "http://twitter.com/search?q=Zhou",
+    "promoted_content": null,
+    "query": "Zhou",
+    "tweet_volume": null
+   },
+   {
+    "name": "Caldas",
+    "url": "http://twitter.com/search?q=Caldas",
+    "promoted_content": null,
+    "query": "Caldas",
+    "tweet_volume": null
+   },
+   {
+    "name": "Calvin Klein",
+    "url": "http://twitter.com/search?q=%22Calvin+Klein%22",
+    "promoted_content": null,
+    "query": "%22Calvin+Klein%22",
+    "tweet_volume": 313003
+   },
+   {
+    "name": "Benfiquista",
+    "url": "http://twitter.com/search?q=Benfiquista",
+    "promoted_content": null,
+    "query": "Benfiquista",
+    "tweet_volume": null
+   },
+   {
+    "name": "Simeone",
+    "url": "http://twitter.com/search?q=Simeone",
+    "promoted_content": null,
+    "query": "Simeone",
+    "tweet_volume": null
+   },
+   {
+    "name": "luís filipe vieira",
+    "url": "http://twitter.com/search?q=%22lu%C3%ADs+filipe+vieira%22",
+    "promoted_content": null,
+    "query": "%22lu%C3%ADs+filipe+vieira%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Rodrigo Pinho",
+    "url": "http://twitter.com/search?q=%22Rodrigo+Pinho%22",
+    "promoted_content": null,
+    "query": "%22Rodrigo+Pinho%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "João Ferreira",
+    "url": "http://twitter.com/search?q=%22Jo%C3%A3o+Ferreira%22",
+    "promoted_content": null,
+    "query": "%22Jo%C3%A3o+Ferreira%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "BTOB",
+    "url": "http://twitter.com/search?q=BTOB",
+    "promoted_content": null,
+    "query": "BTOB",
+    "tweet_volume": 180008
+   },
+   {
+    "name": "Stormi",
+    "url": "http://twitter.com/search?q=Stormi",
+    "promoted_content": null,
+    "query": "Stormi",
+    "tweet_volume": 12594
+   },
+   {
+    "name": "Gustavo Assunção",
+    "url": "http://twitter.com/search?q=%22Gustavo+Assun%C3%A7%C3%A3o%22",
+    "promoted_content": null,
+    "query": "%22Gustavo+Assun%C3%A7%C3%A3o%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Amadora",
+    "url": "http://twitter.com/search?q=Amadora",
+    "promoted_content": null,
+    "query": "Amadora",
+    "tweet_volume": null
+   },
+   {
+    "name": "andré silva",
+    "url": "http://twitter.com/search?q=%22andr%C3%A9+silva%22",
+    "promoted_content": null,
+    "query": "%22andr%C3%A9+silva%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "God of War",
+    "url": "http://twitter.com/search?q=%22God+of+War%22",
+    "promoted_content": null,
+    "query": "%22God+of+War%22",
+    "tweet_volume": 11884
+   },
+   {
+    "name": "Félix da Costa",
+    "url": "http://twitter.com/search?q=%22F%C3%A9lix+da+Costa%22",
+    "promoted_content": null,
+    "query": "%22F%C3%A9lix+da+Costa%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Juiz",
+    "url": "http://twitter.com/search?q=Juiz",
+    "promoted_content": null,
+    "query": "Juiz",
+    "tweet_volume": 20804
+   },
+   {
+    "name": "Keanu Reeves",
+    "url": "http://twitter.com/search?q=%22Keanu+Reeves%22",
+    "promoted_content": null,
+    "query": "%22Keanu+Reeves%22",
+    "tweet_volume": 32146
+   },
+   {
+    "name": "Frederico Varandas",
+    "url": "http://twitter.com/search?q=%22Frederico+Varandas%22",
+    "promoted_content": null,
+    "query": "%22Frederico+Varandas%22",
+    "tweet_volume": null
+   }
+  ],
+  "as_of": "2021-09-09T20:08:33Z",
+  "created_at": "2021-08-22T01:22:56Z",
+  "locations": [
+   {
+    "name": "Portugal",
+    "woeid": 23424925
+   }
+  ]
+ }
+]
